@@ -1,0 +1,373 @@
+/* Header CSS Document */
+#header {
+	background:url(../images/bg_header.jpg) repeat-x ;	
+	height:99px;
+	}
+#selLeftHeader {
+	width:276px;		
+	float:left;
+	}
+#selRightHeader {
+	margin-left:310px;
+	}
+#selLogo {
+	padding:15px 0 0 30px;
+	float:left;
+	}
+h1{
+	/*background:url(../images/h1_logo.jpg) no-repeat;*/
+}
+h1 a{
+	width:230px;
+	height:79px;
+	text-indent:-2000em;
+	overflow:hidden;
+	/*display:block;*/
+	}
+#selTopNavigation {
+	float:right;
+	background:#111 url(../images/bg_top.jpg) no-repeat 0 0;
+	text-align:right;
+	padding:0 70px ;
+	height:30px;
+	}
+#selTopNavigation li{	
+	display:inline;
+	}
+#selTopNavigation li a{		
+	color:#fff;
+	background:url(../images/line-white.jpg) no-repeat right;
+	padding:0 8px;
+	line-height:30px;
+	}
+#selTopNavigation .clsNoborder a{			
+	background:none;
+	}
+#selSubHeader{ 
+	padding:44px 0 0;
+	clear:right;
+	height:23px;
+	}
+#selSubHeader li{
+	float:left;
+	}
+#selSubHeader li a{	
+	float:left;
+	display:block;
+	line-height:195%;
+	padding:0 0 0 15px;
+	text-decoration:none;	
+	}
+#selSubHeader li a:hover, #selSubHeader li a.current {
+	background:url(../images/sb_left_b.jpg) no-repeat scroll left bottom;
+}
+#selSubHeader li a:hover span, #selSubHeader li a.current span {
+	background:url(../images/sb_right.jpg) no-repeat scroll right bottom;
+	display:block;
+}
+#selSubHeader li a span {
+	padding:0 27px 0 10px;
+}
+/*PAGING*/
+
+#paging {
+	margin:0 1em 0 0;
+	padding:0;
+	font:bold 11px Arial, Helvetica, sans-serif;
+	text-align:right;
+}
+
+.pagingnav span {
+	background-color:#BEE3FD;
+	border:1px solid #A5DEFC;
+	color:#168CAA;
+	padding:1px 4px;
+	margin-left:2px;
+}
+/*END OF PAGING*/
+/*BUTTONS*/
+/*MINI BUTTONS*/
+.clsMini {
+	background:transparent url(../images/bt_black_mini.png) no-repeat scroll  0 0;
+	border:0 none;
+	color:#FFFFFF;
+	cursor:pointer;
+	font:12px Arial,Helvetica,sans-serif;
+	height:24px;
+	margin:0 10px 0 0;
+	padding:0 25px 0 0;
+	width:76px;	
+	}
+.clsMiniBL {
+	background:transparent url(../images/blue_mini.png) no-repeat scroll 0 0;
+	border:0 none;
+	color:#FFFFFF;
+	cursor:pointer;
+	font:12px Arial,Helvetica,sans-serif;
+	height:24px;
+	margin:0 10px 0 0;
+	padding:0 23px 0 0;
+	width:76px;	
+	}
+/*END OF MINI BUTTONS*/	
+/*SMALL BUTTONS*/
+.clsSmall {
+	background:transparent url(../images/bt_blue_small.png) no-repeat scroll 0 0;
+	border:0 none;
+	color:#FFFFFF;
+	cursor:pointer;
+	font:12px Arial,Helvetica,sans-serif;
+	height:24px;
+	margin:0 10px 0 0;
+	padding:0 25px 0 0;
+	width:92px;	
+	}
+.clsSmallBL {
+	background:transparent url(../images/bt_black_small.png) no-repeat scroll 0 0;
+	border:0 none;
+	color:#FFFFFF;
+	cursor:pointer;
+	font:12px Arial,Helvetica,sans-serif;
+	height:24px;
+	margin:0 10px 0 0;
+	padding:0 25px 0 0;
+	width:92px;	
+	}
+/*END OF SMALL BUTTONS*/	
+/*MID BUTTONS*/	
+.clsPost {
+	background:transparent url(../images/bt_preview.png) no-repeat scroll 0 0;
+	border:0 none;
+	color:#FFFFFF;
+	cursor:pointer;
+	font:12px Arial,Helvetica,sans-serif;
+	height:24px;
+	margin:0 10px 0 0;
+	padding:0 25px 0 0;
+	width:121px;	
+	}
+
+.clsMid {
+	background:transparent url(../images/bt_black_mid.png) no-repeat scroll 0 0;
+	border:0 none;
+	color:#FFFFFF;
+	cursor:pointer;
+	font:12px Arial,Helvetica,sans-serif;
+	height:24px;
+	margin:0 10px 0 0;
+	padding:0 25px 0 0;
+	width:153px;	
+	}
+.clsMidBL {
+	background:transparent url(../images/bt_blue_mid.png) no-repeat scroll 0 0;
+	border:0 none;
+	color:#FFFFFF;
+	cursor:pointer;
+	font:12px Arial,Helvetica,sans-serif;
+	height:24px;
+	margin:0 10px 0 0;
+	padding:0 25px 0 0;
+	width:153px;	
+	}
+/*END OF MID BUTTONS*/		
+/*LARGE BUTTONS*/		
+.clsLarge {
+	background:transparent url(../images/bt_blue_big.png) no-repeat scroll 0 0;
+	border:0 none;
+	color:#FFFFFF;
+	cursor:pointer;
+	font:12px Arial,Helvetica,sans-serif;
+	height:24px;
+	margin:0 10px 0 0;
+	padding:0 25px 0 0;
+	width:203px;	
+	}
+.clsLargeBL {
+	background:transparent url(../images/bt_submit_big.png) no-repeat scroll 0 0;
+	border:0 none;
+	color:#FFFFFF;
+	cursor:pointer;
+	font:12px Arial,Helvetica,sans-serif;
+	height:24px;
+	margin:0 10px 0 0;
+	padding:0 25px 0 0;
+	width:203px;	
+	}
+/*END OF LARGE BUTTONS*/		
+/*BUTTONS*/
+/*LINK*/
+.LinkTabs a span{
+	background:url(../images/bg_link_a.gif) no-repeat left 2px;
+	margin: 0;
+	padding: 5px 5px 3px 3px;
+	text-decoration: none;
+	line-height:18px;
+}
+
+.LinkTabs a {
+	background:url(../images/bg_link_a_span.gif) no-repeat right 12px;
+	padding: 5px 23px 3px 3px; /* 2) Padding within each tab. The 3rd value, or 3px, should equal (1) MINUS (3) */
+	color: #fff;
+	margin:0;
+	line-height:18px;
+}
+/*END OF LINK*/
+a.button {
+	/* Sliding right image */
+	background:url(../images/bg_link_a_span.gif) no-repeat top right;
+	display: block;
+	float: left;
+	height: 24px; /* CHANGE THIS VALUE ACCORDING TO IMAGE HEIGHT */
+	margin-right: 6px;
+	padding-right: 20px; /* CHENGE THIS VALUE ACCORDING TO RIGHT IMAGE WIDTH */
+	/* FONT PROPERTIES */
+	text-decoration: none;
+	color: #fff;
+	font-size:12px;
+}
+a.button span {
+	/* Background left image */ 
+	background:url(../images/bg_link_a.gif) no-repeat;
+	display: block;
+	line-height: 10px; /* CHANGE THIS VALUE ACCORDING TO BUTTONG HEIGHT */
+	padding: 7px 5px 7px 10px;
+} 
+a.buttonBL {
+	/* Sliding right image */
+	background:url(../images/bg_link_bl_a_span.gif) no-repeat top right;
+	display: block;
+	float: left;
+	height: 24px; /* CHANGE THIS VALUE ACCORDING TO IMAGE HEIGHT */
+	margin-right: 6px;
+	padding-right: 20px; /* CHENGE THIS VALUE ACCORDING TO RIGHT IMAGE WIDTH */
+	/* FONT PROPERTIES */
+	text-decoration: none;
+	color: #fff;
+	font-size:12px;
+}
+a.buttonBL span {
+	/* Background left image */ 
+	background:url(../images/bg_link_bl_a.gif) no-repeat;
+	display: block;
+	line-height: 10px; /* CHANGE THIS VALUE ACCORDING TO BUTTONG HEIGHT */
+	padding: 7px 5px 7px 10px;
+} 
+a.button:hover span, a.buttonBL:hover span {
+	text-decoration:underline;
+}
+
+/*BLUE BUTTON WITH SHADOW*/
+a.buttonShad {
+	background:url(../images/bt_blue_right.png) no-repeat top right;
+	display: block;
+	float: left;
+	height: 44px; /* CHANGE THIS VALUE ACCORDING TO IMAGE HEIGHT */
+	margin-right: 6px;
+	padding-right: 24px; /* CHENGE THIS VALUE ACCORDING TO RIGHT IMAGE WIDTH */
+	/* FONT PROPERTIES */
+	text-decoration: none;
+	color: #fff;
+	font-size:12px;
+}
+a.buttonShad span {
+	background:url(../images/bt_blue_left.png) no-repeat;
+	display: block;
+	line-height: 10px; /* CHANGE THIS VALUE ACCORDING TO BUTTONG HEIGHT */
+	padding: 7px 0 30px 10px;
+} 
+a.buttonBlackShad {
+	background:url(../images/bt_black_right.png) no-repeat top right;
+	display: block;
+	float: left;
+	height: 44px; /* CHANGE THIS VALUE ACCORDING TO IMAGE HEIGHT */
+	margin-right: 6px;
+	padding-right: 24px; /* CHENGE THIS VALUE ACCORDING TO RIGHT IMAGE WIDTH */
+	/* FONT PROPERTIES */
+	text-decoration: none;
+	color: #fff;
+	font-size:12px;
+}
+a.buttonBlackShad span {
+	background:url(../images/bt_black_left.png) no-repeat;
+	display: block;
+	line-height: 10px; /* CHANGE THIS VALUE ACCORDING TO BUTTONG HEIGHT */
+	padding: 7px 0 30px 10px;
+} 
+
+a.buttonShad:hover span, a.buttonBlackShad:hover span {
+	text-decoration:underline;
+}
+a.buttonBlack {
+	background:url(../images/link_right.png) no-repeat top right;
+	display: block;
+	float: left;
+	height: 24px; /* CHANGE THIS VALUE ACCORDING TO IMAGE HEIGHT */
+	margin-right: 6px;
+	padding-right: 24px; /* CHENGE THIS VALUE ACCORDING TO RIGHT IMAGE WIDTH */
+	/* FONT PROPERTIES */
+	text-decoration: none;
+	color: #fff;
+	font-size:12px;
+}
+a.buttonBlack span {
+	background:url(../images/link_left.png) no-repeat;
+	display: block;
+	line-height: 10px; /* CHANGE THIS VALUE ACCORDING TO BUTTONG HEIGHT */
+	padding: 7px 0 7px 10px;
+} 
+a.buttonBlue {
+	background:url(../images/link_right_blue.png) no-repeat top right;
+	display: block;
+	float: left;
+	height: 44px; /* CHANGE THIS VALUE ACCORDING TO IMAGE HEIGHT */
+	margin-right: 6px;
+	padding-right: 24px; /* CHENGE THIS VALUE ACCORDING TO RIGHT IMAGE WIDTH */
+	/* FONT PROPERTIES */
+	text-decoration: none;
+	color: #fff;
+	font-size:12px;
+}
+a.buttonBlue span {
+	background:url(../images/link_left_blue.png) no-repeat;
+	display: block;
+	line-height: 10px; /* CHANGE THIS VALUE ACCORDING TO BUTTONG HEIGHT */
+	padding: 7px 0 7px 10px;
+} 
+.buttonwrapper{ /* Container you can use to surround a CSS button to clear float */
+	overflow: hidden; /*See: http://www.quirksmode.org/css/clearing.html */
+	width: 100%;
+}
+.clsHeads {
+	background-color:#F3F5F4;
+	overflow:hidden;
+	margin:0 0.1em;
+	padding:0.1em;
+	}
+.clsHeadingRight {
+	width:49%;	
+	padding-right:1em;
+	text-align:right;
+	}
+.clsHeadingLeft	 {
+	width:49%;	
+	}
+
+		.clsBack {
+
+background:transparent url(../images/bt_blue_back.png) no-repeat scroll 0 0;
+border:0 none;
+color:#FFFFFF;
+cursor:pointer;
+font-family:Arial,Helvetica,sans-serif;
+font-size:12px;
+font-size-adjust:none;
+font-stretch:normal;
+font-style:normal;
+font-variant:normal;
+font-weight:normal;
+height:24px;
+line-height:normal;
+margin:0 10px 0 0;
+padding:0 0px 0 0;
+width:92px;
+}

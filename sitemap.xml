@@ -1,0 +1,908 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"><url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=Education</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=education&category=self+paced+training</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=education&category=mentoring</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=education&category=on+the+job+training</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=education&category=university%2Fclassroom</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=education&category=university%2Felearning</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=education&category=webinar</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=education&category=train+the+trainer</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=education&category=one+on+one+training</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=Human+Resource</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=human+resource&category=hiring</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=human+resource&category=talent+management</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=human+resource&category=payment+systems</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=human+resource&category=employment+law+regulations</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=human+resource&category=employee+motivation</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=human+resource&category=wage+accounting</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=human+resource&category=self+paced+training</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=Communicationn</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=communicationn&category=public+relations</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=communicationn&category=internal+communication</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=communicationn&category=employee+information</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=communicationn&category=translation+service</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=Creativity+Technique</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=creativity+technique&category=problem+definition</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=creativity+technique&category=idea+generation</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=creativity+technique&category=idea+selection</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=creativity+technique&category=idea+implementation</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=Operations</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=operations&category=production+planning</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=operations&category=sequencing</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=operations&category=production</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=operations&category=know+how+management</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=operations&category=employee+recognition</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=operations&category=autonomous+workgroups</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=Supply+Chain</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=supply+chain&category=supply+chain+management</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=supply+chain&category=purchasing</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=supply+chain&category=warehouse</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=supply+chain&category=distribution</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=Industrial+Engineering</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=industrial+engineering&category=factory+layout</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=industrial+engineering&category=time+and+motion+studies</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=industrial+engineering&category=material+flow</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=industrial+engineering&category=headcount</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=industrial+engineering&category=incentive+systems</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=industrial+engineering&category=shift+systems</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=industrial+engineering&category=continous+improvement</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=industrial+engineering&category=pdca</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=industrial+engineering&category=idea+management</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=industrial+engineering&category=work+in+process+%28wip%29</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=industrial+engineering&category=key+performance+indicator+%28kpi%29</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=industrial+engineering&category=method+development</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=industrial+engineering&category=factory+simulation</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=industrial+engineering&category=computer+aided+manufacturing+%28cam%29</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=industrial+engineering&category=job+design</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=Lean+Management</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=lean+management&category=value+stream+map</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=lean+management&category=5s</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=lean+management&category=7+wastes</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=lean+management&category=kaizen</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=lean+management&category=kanban</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=lean+management&category=poka+yoke</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=lean+management&category=smed</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=lean+management&category=workflow+optimization</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=lean+management&category=office+process+flow+optimization</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=lean+management&category=production+process+flow+optimization</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=lean+management&category=pdca%2Fa3%2F8d</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=Knowledge+Management</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=knowledge+management&category=know+how+management</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=knowledge+management&category=knowledge+database</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=knowledge+management&category=know+how+documentation</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=knowledge+management&category=process+documentation</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=knowledge+management&category=collaboration</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=knowledge+management&category=best+practice</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=knowledge+management&category=knowledge+mapping</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=Quality+Management</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=quality+management&category=six+sigma</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=quality+management&category=iso+9000ff</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=quality+management&category=ts+16949</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=quality+management&category=vda</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=quality+management&category=qs+9000</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=quality+management&category=eaqf</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=quality+management&category=avsq</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=quality+management&category=iso+22000</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=quality+management&category=haccp</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=quality+management&category=problem+solving</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=quality+management&category=quality+statistics</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=quality+management&category=statistic+process+control+%28spc%29</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=quality+management&category=capability+studies</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=quality+management&category=total+quality+management+%28tqm%29</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=quality+management&category=quality+function+deployment+%28qfd%29</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=quality+management&category=quality+circle</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=quality+management&category=taguchi</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=quality+management&category=kansei+engineering</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=quality+management&category=business+process+reegineering+%28bpr%29</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=quality+management&category=object+oriented+quality+and+risk+management+%28oqrm%29</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=quality+management&category=quality+tools</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=quality+management&category=fmea</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=quality+management&category=apqp</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=quality+management&category=ppap</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=quality+management&category=document+management</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=Project+Management</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=project+management&category=project+management</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=Logistics</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=logistics&category=logistics</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=Marketing</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=marketing&category=market+analysis</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=marketing&category=brand+management</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=marketing&category=market+research</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=marketing&category=pricing</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=marketing&category=promotion</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=marketing&category=sales</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=marketing&category=after+sales+service</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=marketing&category=e-commerce</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=marketing&category=distribution</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=marketing&category=consumer+theory</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=marketing&category=economics</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=marketing&category=advertising</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=Lawyer</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=lawyer&category=patent+rights</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=lawyer&category=start+up</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=lawyer&category=employer+obligations</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=lawyer&category=employee+rights</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=Engineering</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=engineering&category=maintenance</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=engineering&category=machine+procurement</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=engineering&category=project+management</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=engineering&category=machine+development</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=engineering&category=automation+technologies</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=engineering&category=transport+systems</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=engineering&category=technical+documentation</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=Research+%26+Development</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=research+%26+development&category=material+research</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=research+%26+development&category=process+research</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=research+%26+development&category=material+development</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=research+%26+development&category=process+development</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=research+%26+development&category=machine+development</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=research+%26+development&category=method+development</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=research+%26+development&category=software+development</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=Executive+Management</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=executive+management&category=business+development</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=executive+management&category=business+excellence</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=executive+management&category=organization+development</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=executive+management&category=vision%2Fmission+development</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=executive+management&category=balanced+scorecard</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=executive+management&category=decission+making</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=executive+management&category=enterprise+organization</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=Finance</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=finance&category=accounting</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=finance&category=controlling</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=finance&category=treasury</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=finance&category=insurance</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=finance&category=tax</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=Coaching</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=coaching&category=business+coaching</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=coaching&category=executive+coaching</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=coaching&category=control+theory</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=coaching&category=expat+coaching</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=coaching&category=career+coaching</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=coaching&category=financial+coaching</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=coaching&category=career+coaching</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=coaching&category=personal+coaching</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=coaching&category=style+coaching</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=coaching&category=systemic+coaching</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=Environment+Safety+Health</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=environment+safety+health&category=energy+saving</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=environment+safety+health&category=work+condition</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=environment+safety+health&category=enviromental+protection</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=environment+safety+health&category=environmental+certification</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=environment+safety+health&category=work+ergonomics</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=environment+safety+health&category=safety</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=Information+Technology</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=information+technology&category=sap</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=information+technology&category=erp</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=information+technology&category=scada</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=information+technology&category=opc</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=information+technology&category=controls+%26+drives</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=information+technology&category=software</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=information+technology&category=it+infrastructure</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=Other</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dev.oprocon.de/en/search/machinery?group=other&category=conveying+systems</loc>
+  <lastmod>2018-01-04T10:32:07+07:00</lastmod>
+  <priority>0.80</priority>
+</url>
+</urlset>

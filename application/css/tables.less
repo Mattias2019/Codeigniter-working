@@ -1,0 +1,102 @@
+table {
+    border-collapse: separate;
+    &.table {
+        background-color: @content-bg;
+        width: 100%;
+        thead tr, tfoot tr {
+            background: #404451 none repeat scroll 0 0;
+            color: #fff;
+        }
+        tbody tr:hover td {
+            background-color: @content-bg !important;
+            strong {
+                color: @brand-primary;
+                a, a:visited, a:hover, a:active {
+                    color: @brand-primary;
+                }
+            }
+        }
+    }
+}
+
+.table-input {
+    background: none;
+    border: none;
+    width: 100%;
+}
+
+.table-button {
+    display: inline-block;
+    height: 32px;
+    width: 32px;
+    &:hover {
+        .svg-table-inner {
+            fill: @brand-primary;
+        }
+    }
+    &.disabled {
+        pointer-events: none;
+        .svg-table-inner {
+            fill: @color-disabled;
+        }
+    }
+    &.hidden {
+        display: none;
+    }
+}
+
+a.table-button-with-label svg.svg-table {
+    display: inline-block;
+    height: 32px;
+    width: 32px;
+    margin-bottom: -12px;
+}
+
+a.table-button-with-label {
+    &:hover {
+        .svg-table-inner {
+            fill: @brand-primary;
+        }
+    }
+    &.disabled {
+        pointer-events: none;
+        .svg-table-inner {
+            fill: @color-disabled;
+        }
+    }
+    &.hidden {
+        display: none;
+    }
+}
+
+.file-action {
+    .svg-edit, .svg-move, .svg-trash {
+        height: 20px;
+        width: 20px;
+        margin-bottom: -4px;
+    }
+    &:hover {
+        span {
+            color: @brand-primary;
+        }
+        .svg-edit-inner, .svg-move-inner, .svg-trash-inner {
+            fill: @brand-primary;
+        }
+    }
+    &.disabled {
+        pointer-events: none;
+        span {
+            color: @color-disabled;
+        }
+        .svg-edit-inner, .svg-move-inner, .svg-trash-inner {
+            fill: @color-disabled;
+        }
+    }
+    &.hidden {
+        display: none;
+    }
+}
+
+.table-text-middle {
+    vertical-align: middle!important;
+}

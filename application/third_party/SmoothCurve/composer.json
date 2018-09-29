@@ -1,0 +1,21 @@
+{
+    "name": "phpteam-pro/smooth-curve",
+    "description": "Php SmoothCurve splines package",
+    "authors": [
+        {
+            "name": "Vladislav Ross",
+            "email": "vladislav.ross@gmail.com"
+        },
+        {
+            "name": "Andrey Murashkin",
+            "email": "andrey@phpteam.pro"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "classmap": ["classes"]
+    }
+}

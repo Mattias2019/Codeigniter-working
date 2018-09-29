@@ -1,0 +1,31 @@
+<?php
+$lang['You must be logged in as a Programmer to bid projects']					= '您必须以顾问身份登陆才能对项目竞标。';
+$lang['Bid_Amount_validation'] 													= '竞价金额';
+$lang['Bid_days_validation'] 													= '天';
+$lang['description_validation']													= '信息';
+$lang['You must be logged in as a programmer to place a bid']	            	= '您必须以顾问身份登陆才能竞标。';
+$lang['Bid on Project']	            											= '对项目竞标';
+$lang['Your Bid']	            												= '您的竞价';
+$lang['Delivery Time']	            											= '交付时间';
+$lang['Bid Details']	            											= '竞标详情';
+$lang['Portfolio']	            												= '作品集';
+$lang['Days']	            													= '天';
+$lang['Hours']	            													= '小时';
+$lang['Characters Left']	            										= '剩余字符';
+$lang['Submit']	            													= '提交';
+$lang['Preview']	            												= '预览';
+$lang['Your bid Has Been edited Successfully']	            					= '您已成功编辑竞标';
+$lang['Your bid Has Been Posted Successfully']	            					= '您的竞标已经被成功记录。如果您决定对该项目发起新的的竞标，旧的竞标将被取代。该项目关闭时，您将收到电子邮件通知。';
+$lang['Your are not having sufficient Balance']	            					= '您的余额不足';
+$lang['Project Fee for Bid']	            					                = '竞标项目费用';
+$lang['Project Fee']	            					                        = '项目费';
+$lang['Programmer']	            					                            = '顾问';
+$lang['Buyer']	            					                                = '企业';
+$lang['Project Fee for Featured Project']	            					    = '精选';
+$lang['Project Fee for Urgent Project']	            					        = '紧急';
+$lang['Project Fee for hide bids Project']	            					    = '隐藏竞标';
+$lang['Project Fee for Private Project']	            					    = '私人';
+$lang['Job Fee']	            					                            = '项目费';
+$lang['Project Fee']	            					                        = '项目费';
+$lang['Bid on Job']																= '对项目竞标';
+?>

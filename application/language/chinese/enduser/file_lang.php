@@ -1,0 +1,29 @@
+<?php
+$lang['note']	 						 = '发布文件与其他用户私人分享。';
+$lang['File Manager'] 					 = '文件管理器';
+$lang['File type'] 					     = '文件类型';
+$lang['Size'] 					         = '大小';
+$lang['Expiery'] 					     = '有效期';
+
+$lang['Remove']							 = '删除';
+$lang['Upload File']					 = '上传文件：';
+$lang['Upload Button']					 = '上传文件';
+$lang['desc']		        			 = '描述：';
+$lang['upload_validation']	   			 = '文件上传';
+$lang['Desc_validation']      			 = '描述';
+$lang['update_confirm_success']   	     = '成功更新文件';
+$lang['update_delete_success']           = '成功删除文件';
+$lang['Upload file is needed']           = '需要上传文件';
+//$lang['allowed files']                   = '支持的文件类型有 PNG|JPEG|GIF|XLS|PPT|DOC|TXT';
+$lang['File size is Exceed']             = '您的文件大小超过限制';
+$lang['Remove']                          ='删除';
+$lang['Shared File Download']='已分享文件上传';
+$lang['You are currently logged in as']='您当前登陆为';
+$lang['File Name:']='文件名称：';
+$lang['Description:']='描述：';
+$lang['Size:']='大小：';
+$lang['Posted by:']='发布人：';
+$lang['logout']='退出';
+$lang['KB']='KB';
+$lang['(']='(';
+$lang[').']=').';

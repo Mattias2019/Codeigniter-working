@@ -1,0 +1,30 @@
+<?php
+$lang['Job Message Board']	            	    = 'Projekt Message Board';
+$lang['Job']								    = 'Projekt';
+$lang['Post Message']							= 'Nachricht posten';
+$lang['To']										= 'An';
+$lang['Everyone']								= 'Jeden';
+$lang['From']								    = 'Von';
+$lang['Private Messsage']						= 'Private Nachricht';
+$lang['Note: Only private message to programmer'] = '[ Hinweis: Bitte geben Sie die Firmen-ID für die private Nachricht mit einem Komma ein ]';
+$lang['Select Job']							    = 'Projekt auswählen';
+$lang['Select Owner']							= 'Unternehmen auswählen';
+$lang['Select Employee']						= 'Arbeitnehmer auswählen';
+$lang['message_validation']						= 'Nachricht';
+$lang['employee_validation']					= 'An';
+$lang['job_validation']				    	    = 'Projekt';
+
+$lang['You must be logged in as a Supplier to post messages on the Job Message Board']	= 'Sie müssen als Unternehmen eingeloggt sein um Nachrichten im Projekt Message Board zu posten';
+$lang['Your Message Has Been Posted Successfully']						                = 'Ihre Nachricht wurde erfolgreich gepostet';
+$lang['You must be logged to post messages on the Job Message Board']			    	= 'Sie müssen eingeloggt sein um Nachrichten im Projekt Message Board zu posten';
+$lang['You must be post job to invite employees']		    			                = 'Sie müssen ein Projekt posten um Arbeitnehmer einzuladen';
+$lang['You must be logged to invite employees']					                        = 'Sie müssen eingeloggt sein um Arbeitnehmer einzuladen';
+$lang['There is no open job to Post Mail']	                                            = 'Es gibt kein offenes Projekt um eine Mail zu posten';
+$lang['You are currently logged in as'] ='Sie sind derzeit eingeloggt als';
+$lang['Tip']='Tipp: Sie können Programmcode posten indem Sie diesen zwischen [code] und [/code] Tags platzieren.'; 
+$lang['Submit']='Abschicken';
+$lang['Preview']='Vorschau';
+$lang['Hide']='Verstecken';
+$lang['Show']='Anzeigen';
+$lang['You are currently logged in as']='Sie sind derzeit eingeloggt als';
+$lang['Job']  = 'Projektname';

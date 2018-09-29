@@ -1,0 +1,22 @@
+.slider input {
+    background-color: transparent !important;
+    border-color: transparent !important;
+}
+.slider-min, .slider-label, .slider-max {
+    display: inline-block;
+    height: 35px;
+    padding: 7px;
+}
+.slider-min {
+    width: 50%;
+}
+.slider-label {
+    height: 14px;
+    width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+}
+.slider-max {
+    width: 49%;
+    text-align: right;
+}

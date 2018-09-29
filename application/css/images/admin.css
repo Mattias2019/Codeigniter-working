@@ -1,0 +1,208 @@
+body{font-family:"Tw Cen MT";font-size:14px;margin:0;padding:0;text-align:center;background:url(images/admin_bg.jpg) no-repeat scroll 0 top}
+#top,#header h2,#footer h2,#selSubHeader h3{position:absolute;left:-999em;width:990em}
+form,table,p,h1,h2,h3,h4,h5,h6,ul,li,div,dl{margin:0;padding:0;font-size:100%}
+li{padding:0;margin:0;list-style:none}
+a{text-decoration:none;outline:none}
+img{border:0;vertical-align:top;margin-right:8px}
+.clsFloatLeft{float:left}
+.clsFloatRight{float:right}
+.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden}
+.clearfix{display:inline-block}
+* html .clearfix{height:1%}
+.clearfix{display:block}
+.clsContainer{width:1000px;margin:0 auto}
+.container{clear:both;margin:0 auto;overflow:hidden;width:95%}
+.content h2{color:#000;font:16px Tw Cen MT;font-weight:normal;letter-spacing:0.01em;text-align:left;line-height:32px;height:32px}
+.content h3{border-bottom:1px dotted #b2b0b0;color:#089ef2;font-size:18px;text-transform:uppercase;font-weight:normal;padding-bottom:7px;text-align:left}
+.content h3 small{font:1em Tw Cen MT}
+.content p{text-align:left;margin:.4em 0}
+.content ol li{margin-bottom:1em}
+.content{float:left;margin:0em;overflow:hidden}
+.innercontent{padding:10px;width:55%;margin:0 auto}
+#sellogin{padding:4em 0 0;margin:0 auto}
+.innercontent h2{padding:0px 0 10px;height:30px;color:#000;font-size:18px;font-weight:normal;text-align:left;text-transform:uppercase}
+.innercontent p{text-align:left;margin:.4em 0;overflow:hidden}
+#header{background:url(images/bd-bg1.jpg) repeat-x scroll 0 0;width:100%}
+#selLeftHeader{float:left;overflow:hidden;width:40%}
+#header .logo{margin:2em 0 0 0em;background:url(images/admin_logo.png) no-repeat;width:260px;height:100px;border:none;float:left;display:block;text-indent:-2000em}
+#header .logo a{text-decoration:none}
+#selRightHeader{float:right;padding:2em 0 0;width:50%}
+#mainnav{font-size:1em;overflow:hidden;float:right}
+#mainnav li{float:left;margin:0 15px 0 0}
+#mainnav li a{font-weight:bold;color:#0b0a0a;line-height:2em;text-align:left;text-decoration:none;display:block;background:url(images/li1-bg.jpg) repeat-x scroll 0 0;text-transform:uppercase}
+#mainnav .clsNoborder a{background:none}
+#mainnav a:hover,#mainnav li.clsActive a{color:#000;border-bottom:3px solid #90c307}
+#wrapper{clear:both;margin:0 auto;width:1000px;overflow:hidden;min-height:342px !important;padding:50px 0 40px !important}
+*{margin:0;padding:0}
+* html #wrapper{height:480px}
+#categories h2{padding-bottom:.3em}
+#categories dl{background:url(images/folder.png) no-repeat scroll 0 0;float:left;margin:1.5em .6em .6em 0;min-height:5em;width:40%;padding-left:1.2em}
+* html #categories dl{height:5em}
+#categories dt a{font:bold 1.4em "Times New Roman", Times, serif;color:#0098FF;text-transform:capitalize;padding-left:.5em}
+#categories dd{color:#777777;font-size:.9em;font-style:italic;line-height:1.2em;text-align:left}
+.sideoptions{margin-top:1.5em}
+#col-right{float:left;margin:4.9em 0 0 1em;width:30%}
+#col-right p{text-align:left;font-style:italic;font-size:1em}
+#col-right p a{color:#54BAFE;font-weight:bold;font-style:normal}
+#col-right h2{margin:1em 0 1.2em;text-align:left}
+#col-right h2 span{color:#2E2C23}
+#col-right h2 a{font:bold 1.1em Tw Cen MT;color:#000;text-decoration:none;background:none;text-align:left;padding:0 !important;border-bottom:none}
+#footer{background:#c6f2fd;border-top:3px solid #039ce2;color:#fff;font-size:.8em;padding:4em 0;clear:both;margin:0em 0 0;width:100%}
+#footer p{color:#0b0a0a;font:bold 12px Tw Cen MT;text-transform:uppercase;text-align:center}
+#wrapper .form_error{color:#DF3B1B;font-size:11em;font-weight:bold}
+.form_error p{padding:10px 0;font:12px Tw Cen MT}
+#wrapper fieldset{border:none;margin:0;padding:0}
+label,.label{margin:.5em 0 0;float:left;width:20%;text-align:left;display:block;font-size:1.1em}
+input,textarea{color:#4f4b3b;width:45%;border:1px solid #CCCCCC;height:20px}
+input,textarea{margin:3px 0}
+input,span{font:1em;font-weight:normal !important}
+.clsMainSettings h3{font:1.9em Tw Cen MT;padding:0.5em 0;text-align:left}
+.textarea{width:60%}
+.clsTextArea{height:7em;width:45.5%}
+#wrapper fieldset fieldset{margin:0;padding:0 0 7px 0}
+#wrapper .field_error{border:2px solid #df7d7d;background:#efe0e0}
+.clsSubmitBt1{background:url(images/l_but.png) no-repeat scroll 0 0;text-align:center;color:#fff;height:25px;line-height:25px;cursor:pointer;width:72px;font:bold 13px Tw Cen MT !important;margin:1em auto;padding:0 1em 0px;border:none;text-transform:uppercase}
+.side_nav ul{margin:0}
+ul.side_nav li a{background:url(images/bullet_arrow.png) no-repeat scroll left center;border-bottom:.1em solid #cccccc;color:#000;display:block;padding:0.4em 0.5em 0.5em 1.5em;text-decoration:none;text-align:left;font:.9em Tw Cen MT}
+* html ul.side_nav li a{height:0 !important}
+ul.side_nav li a:hover{background-color:#CCCCCC}
+.option{margin:1em 0.5em;text-align:left;vertical-align:middle;width:auto !important;padding:1em 0;display:inline;border:none}
+.clsNav{float:right;width:50%;padding-top:.5em;padding-right:20px;font-weight:bold}
+.clsNav li{float:right;display:inline;padding:0 5px;border-left:1px solid #BDE3FD}
+.clsNav li a{color:#3C7FAF}
+.clsNav1{float:right;width:50%;padding-right:20px;font-weight:bold}
+.clsNav1 ul{padding-top:10px}
+.clsNav1 li{float:right;display:inline;padding:0 5px;border-left:1px solid #BDE3FD}
+.clsNav1 li a{color:#3C7FAF}
+.clsNav2{float:right;width:50%;padding-top:1.2em;padding-right:20px;font-weight:bold}
+.clsNav2 ul{padding-top:10px}
+.clsNav2 li{float:right;display:inline;padding:0 5px;border-left:1px solid #BDE3FD}
+.clsNav2 li a{color:#3C7FAF}
+.clsNavbt{min-width:50px;height:20px;text-align:center;margin-left:2%;font:bold 11px Tw Cen MT;cursor:pointer;background:#BDE3FD;border:1px solid #BDE3FD;color:#3C7FAF;padding:0 3px;line-height:20px}
+.clsRadioBut{width:3%;vertical-align:middle;margin:0;padding:0;border:none}
+.clsCheckBox{vertical-align:middle;margin-right:10px;padding:0;border:none}
+.clsRed{color:#FF0000;font:12px Tw Cen MT}
+.help{color:#FF0000;font:14px Tw Cen MT}
+.clsGreen{font:bold 12px Tw Cen MT;color:#339933}
+table.table{border-collapse:collapse;border-spacing:0;width:100%}
+table.table3{border-collapse:collapse;border-spacing:0;width:98%}
+table.table3 th{font-weight:bold;padding:.2em .8em;color:#000;background:#D9D9D9;text-align:left}
+table.table3 td{text-align:left;padding:0 .8em .3em .8em}
+table.table1{border-collapse:collapse;border-spacing:0;font-size:1em;width:98%;text-align:left}
+table.table2{border-collapse:collapse;border-spacing:0;font-size:1em;width:98%}
+table.table2 th{padding:.2em .8em;color:#000;background:#D7F5FD;text-align:left;text-transform:uppercase}
+table.table th{padding:.3em .8em;color:#000;background:#D7F5FD;text-align:left;font:bold 12px Tw Cen MT;text-transform:uppercase}
+table.table2 td{text-align:left;padding:.3em .8em .3em .8em}
+table.table2 td{text-align:left}
+table.table2 tr{text-align:left;border-top:1px dotted #bfbdb3;margin-bottom:1em}
+table.table td{text-align:left;padding:.3em .8em;font-size:14px !important;text-transform:capitalize}
+table.table td a{font-size:14px !important;text-transform:capitalize}
+table.table1 td{text-align:left;padding:5px}
+table.table1 tr{text-align:left;font-size:1em;margin-bottom:1em}
+table.table thead th{text-align:left;border-bottom:1px solid #ccc;font-size:12px;height:2em;color:#000}
+table.table .text-right,table.table .text-left,table.table .text-center{display:block}
+table.table .functions{text-align:center}
+table.table .functions{text-align:left;width:15%}
+.icon.detail{background:url(images/detail.png) no-repeat}
+.icon.delete{background:url(images/delete.png) no-repeat}
+.backend .icon{background-repeat:no-repeat;float:left;height:1.6em;margin:.3em 0 0 1em;text-indent:-5000px;width:1.9em}
+.clsName{width:43%}
+.clsTitle h3{font:1.6em Tw Cen MT;padding:0;text-align:left;color:#90C307}
+.clsTitle1 h3{font:1.6em Tw Cen MT;text-align:left}
+.clsNav3{//float:left;// width:50%;// padding-top:.5em;padding-right:20px;font-weight:bold}
+.clsNav3 li{float:right;display:inline;margin:10px 0 0 0;border-left:1px solid #BDE3FD}
+.clsNav3 li a{color:#1499E4}
+.clsTitle{padding-bottom:7px;border-bottom:4px solid #1499E4;margin:0 0 10px}
+.clsTitleeditadmin{padding-bottom:0.3em;float:left}
+.clsTitleeditadmin h3{font-family:Arial,Helvetica,sans-serif;font-size:1.6em;font-size-adjust:none;font-stretch:normal;font-style:normal;font-variant:normal;font-weight:normal;line-height:normal;padding:0.7em 0 0.4em;text-align:left}
+.clsTitle1{padding-bottom:0}
+.clsTit{padding-bottom:.8em}
+.clsTable{padding-top:0.3em}
+.table{padding:0}
+.clsTab{padding-top:.8em}
+.clsBot{padding-top:.5em}
+.clsAligntop{padding-top:0.1em;margin:0}
+.clsLeft{margin:0}
+#selLeftAlign{padding:7px 15px;text-align:left}
+#paging{padding:0;text-align:center;float:right;padding:10px 30px}
+.pagingnav span{background-color:#ccc;color:#000;border:1px solid gray;margin-left:3px;padding:3px 5px;font:bold 11px Tw Cen MT !important;border-radius:5px}
+.pagingnav span a{color:#000}
+.pagingnav .clsActive{background-color:#30A6E7;color:#fff}
+.pagingnav a:hover{color:#FFF;text-decoration:none}
+.pagingnav{line-height:28px;margin:0 auto;text-align:center}
+label,.clsLable{margin:.5em 0 0;float:left;width:30%;text-align:left;display:block;font-size:15px}
+.usertype{width:45.5%}
+.clsSub{background:url(images/but-bg.jpg) repeat-x scroll 0 0;text-align:center;color:#000;border:none;height:29px;cursor:pointer;width:100px;font:bold 1.0em Tw Cen MT !important;border:2px solid #A4A4A4;margin:1em auto;text-transform:capitalize}
+.flash_messages{text-align:left}
+.clsError{color:#FF0000}
+.Valid{color:#006633}
+.message{width:50%;margin:0em auto}
+.error{background:url(images/icon_error5.png) no-repeat left 8px;color:red;font-size:16px;margin:0 auto;padding:10px 0 10px 32px !important;text-align:left}
+.success{background:url(images/icon_right.png) no-repeat left 5px;padding:10px 30px 10px 40px;color:green;text-align:left}
+.clspros{background:url(images/ic/ic_programers.png) no-repeat left center;height:15px;padding-left:15px}
+.clsMember{background:url(images/ic/ic_user.png) no-repeat left 7px;height:14px;padding-left:20px}
+.clsWeek{background:url(images/ic/ic_week.png) no-repeat left 7px;height:14px;padding-left:20px}
+.clsToday{background:url(images/ic/ic_today.png) no-repeat left 7px;height:14px;padding-left:20px}
+.clsMonth{background:url(images/ic/ic_month.png) no-repeat left 7px;height:14px;padding-left:20px}
+.clsYear{background:url(images/ic/ic_year.png) no-repeat left 7px;height:14px;padding-left:20px}
+.clsLatestClosed{background:url(images/ic/ic_latestclosed.png) no-repeat left 7px;height:14px;padding-left:20px}
+.clsClosedprojects{background:url(images/ic/ic_closedprojects.png) no-repeat left 7px;height:14px;padding-left:20px}
+.clsOpenPros{background:url(images/ic/ic_open.png) no-repeat left 7px;height:14px;padding-left:20px}
+.clsLatestOpen{background:url(images/ic/ic_latestopen.png) no-repeat left 7px;height:14px;padding-left:20px}
+.clsReport{background:url(images/ic/ic_report_violation.png) no-repeat left 7px;height:14px;padding-left:20px}
+.clsWidthdraw{background:url(images/ic/ic_widthdrawal.png) no-repeat left 7px;height:14px;padding-left:20px}
+.selQuickStatus{clear:both;padding-top:10px}
+.selQuickStatusleft{width:90px}
+.selQuickStatusleft img{margin:0 0 0 20px}
+.selQuickStatus h2{padding:0 20px 0 0px;font-size:1.3em;text-align:left;border-bottom:1px solid #ccc}
+.selQuickStatusRight{width:83%}
+.selQuickStatusRight li{float:left;padding:5px 10px 10px 25px;text-align:left;width:320px}
+.selQuickStatusRight li a{color:#11B5DD;padding-right:1.1em}
+#selQuickStatusRight ul{padding:5px 10px}
+.clear{clear:both}
+.selQuickStatusRight h2 span{float:right;padding:0;font:12px Tw Cen MT !important}
+#selLatest{margin-top:10px}
+.clsBottomleft{width:100%}
+.clsBottomleft h3{font:bold 24px Tw Cen MT;color:#000;text-transform:capitalize;padding:0 0 10px 0;margin-top:20px !important}
+.clsBottomleft li{font:16px Tw Cen MT;color:#000;text-align:left;padding:3px 0}
+.clsBottomleft li a{color:#000;text-decoration:none;font:bold 14px Tw Cen MT;text-align:left}
+.clsBottomleft span{text-decoration:underline;color:#333399;padding:0}
+.clsBottomRight{width:550px}
+.clsBottomRight h3{font:bold 24px Tw Cen MT;color:#000;text-transform:capitalize;padding:0;margin-top:20px !important}
+.clsBottomRight span{text-decoration:underline;color:#333399;padding:0}
+.clsBottomRight li{font:bold 16px Tw Cen MT;color:#000;text-align:left;padding:5px 0 0 0}
+.clsBottomRight p{text-align:justify;font:14px Tw Cen MT;margin:0 !important}
+.clear{clear:both}
+.clsBottomRight .clsNoborder{border:none}
+#selcenter{margin:0 auto;padding:0}
+.clsNoborder{border:none;width:auto !important;margin:0 !important;padding:0 !important}
+.clsSpace{padding:5px}
+.clsALignLeft{padding:0 !important}
+#main{width:80%;float:left}
+.dottedremove{border-top:1px solid #CCCCCC}
+.selQuickStatusleft{margin-right:20px}
+.admin_t{background:#fff url(images/admin_tb1.jpg) 0px top repeat-x}
+.admin_b{background:url(images/admin_bb1.jpg) 0px bottom repeat-x}
+.admin_r{background:url(images/admin_rb1.jpg) right 0px repeat-y}
+.admin_l{background:url(images/admin_lb1.jpg) 0px 0px repeat-y}
+.admin_tl{background:url(images/admin_tlc1.jpg) left top no-repeat}
+.admin_tr{background:url(images/admin_trc1.jpg) right 0px no-repeat}
+.admin_bl{background:url(images/admin_blc4.jpg) left bottom no-repeat}
+.admin_br{background:url(images/admin_brc2.jpg) right bottom no-repeat;padding:1em}
+#sellogin input.focus{background:url(images/textbox_bg.png) no-repeat;width:293px;height:38px;border:none;line-height:38px;padding-left:10px}
+.clsFooter{width:1000px;margin:0 auto}
+.clsFooter p{text-align:center}
+.clsLeft_hmenu{background:url(images/menuh_left.png) no-repeat left;padding-left:11px}
+.clsRight_hmenu{background:url(images/menuh_right.png) no-repeat right;padding-right:11px}
+.clsCen_hmenu{background:url(images/menuh_center.png) repeat-x}
+.inner_t{background:#fff url(images/inner_tb.jpg) 0px top repeat-x}
+.inner_b{background:url(images/inner_bb.jpg) 0px bottom repeat-x}
+.inner_r{background:url(images/inner_rb.jpg) right 0px repeat-y}
+.inner_l{background:url(images/inner_lb.jpg) 0px 0px repeat-y}
+.inner_tl{background:url(images/inner_tlc.jpg) left top no-repeat}
+.inner_tr{background:url(images/inner_trc.jpg) right 0px no-repeat}
+.inner_bl{background:url(images/inner_blc.jpg) left bottom no-repeat}
+.inner_br{background:url(images/inner_brc.jpg) right bottom no-repeat;padding:1em}
+.clsblue_arrow1{background:url(images/blue_arrow.png) no-repeat left;padding-left:107px}
+.clsblue_arrow2{background:url(images/blue_arrow.png) no-repeat left;padding-left:75px}
+.clsblue_arrow3{background:url(images/blue_arrow.png) no-repeat left;padding-left:50px}

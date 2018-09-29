@@ -1,0 +1,31 @@
+<?php
+$lang['You must be logged in as a Programmer to bid projects']					= 'Usted debe estar conectado como Consultor para pujar Proyectos';
+$lang['Bid_Amount_validation'] 													= 'Cantidad de la oferta';
+$lang['Bid_days_validation'] 													= 'días';
+$lang['description_validation']													= 'mensaje';
+$lang['You must be logged in as a programmer to place a bid']	            	= 'Usted debe estar conectado como Consultor para poder hacer una subasta';
+$lang['Bid on Project']	            											= 'Oferta en Proyecto';
+$lang['Your Bid']	            												= 'Su Oferta';
+$lang['Delivery Time']	            											= 'El Tiempo De Entrega';
+$lang['Bid Details']	            											= 'Detalles de la subasta';
+$lang['Portfolio']	            												= 'cartera';
+$lang['Days']	            													= 'días';
+$lang['Hours']	            													= 'horas';
+$lang['Characters Left']	            										= 'caracteres restantes';
+$lang['Submit']	            													= 'presentar';
+$lang['Preview']	            												= 'preestreno';
+$lang['Your bid Has Been edited Successfully']	            					= 'Su oferta ha sido editado con éxito';
+$lang['Your bid Has Been Posted Successfully']	            					= 'Su oferta ha sido registrado con éxito. Si usted decide colocar una nueva oferta en este proyecto que reemplazará a su oferta de edad. Se le notificará por e-mail cuando se cierra el proyecto.';
+$lang['Your are not having sufficient Balance']	            					= 'Usted no tiene suficiente equilibrio';
+$lang['Project Fee for Bid']	            					                = 'Cuota de Proyecto para la subasta';
+$lang['Project Fee']	            					                        = 'Cuota de Proyecto';
+$lang['Programmer']	            					                            = 'consultor';
+$lang['Buyer']	            					                                = 'empresa';
+$lang['Project Fee for Featured Project']	            					    = 'Destacado';
+$lang['Project Fee for Urgent Project']	            					        = 'urgente';
+$lang['Project Fee for hide bids Project']	            					    = 'Ocultar ofertas';
+$lang['Project Fee for Private Project']	            					    = 'privado';
+$lang['Job Fee']	            					                            = 'Cuota de Proyecto';
+$lang['Project Fee']	            					                        = 'Cuota de Proyecto';
+$lang['Bid on Job']																= 'Oferta en Proyecto';
+?>

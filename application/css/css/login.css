@@ -1,0 +1,16 @@
+.login-page {
+    max-width: 384px;
+    margin: 20px auto;
+}
+
+.form-control-login {
+    height: 60px;
+    padding-left: 75px;
+    width: 100%;
+}
+.form-control-login.user {
+    background-image: url("/application/css/images/username_box.png");
+}
+.form-control-login.password {
+    background-image: url("/application/css/images/pwd_box.png");
+}

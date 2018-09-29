@@ -1,0 +1,257 @@
+/*.page-header.navbar .page-logo {*/
+    /*float: left;*/
+    /*display: block;*/
+    /*width: 300px;*/
+    /*height: 75px;*/
+    /*padding-left: 10px;*/
+    /*padding-right: 10px;*/
+    /*background: #404451 none repeat scroll 0 0;*/
+/*}*/
+
+/*.page-header.navbar {*/
+    /*width: 100%;*/
+    /*margin: 0;*/
+    /*border: 0;*/
+    /*padding: 0;*/
+    /*height: 75px;*/
+    /*min-height: 75px;*/
+    /*filter: none;*/
+    /*background-image: none;*/
+/*}*/
+
+/*.page-header.navbar .page-logo>.logo-image, .page-header.navbar .page-logo>a {*/
+    /*display: block;*/
+    /*float: left;*/
+/*}*/
+
+/*.page-header.navbar .menu-toggler.sidebar-toggler {*/
+    /*float: right;*/
+    /*margin: 30px 0 0;*/
+/*}*/
+
+/*.page-header.navbar .menu-toggler {*/
+    /*display: block;*/
+    /*cursor: pointer;*/
+    /*opacity: .6;*/
+    /*filter: alpha(opacity=60);*/
+    /*width: 20px;*/
+    /*height: 14px;*/
+    /*background-repeat: no-repeat;*/
+    /*background-position: center center;*/
+/*}*/
+
+/*.page-header.navbar .menu-toggler.responsive-toggler {*/
+    /*display: none;*/
+    /*float: right;*/
+    /*margin: 30.5px 14px 0 6px;*/
+/*}*/
+
+/*.page-header.navbar .top-menu {*/
+    /*float: left;*/
+    /*display: inline-block;*/
+    /*margin: 0;*/
+    /*padding: 0;*/
+/*}*/
+
+/*.page-header.navbar .top-menu .navbar-nav {*/
+    /*padding: 0;*/
+    /*margin-right: 0px;*/
+    /*display: block;*/
+/*}*/
+
+/*.page-header.navbar .top-menu .navbar-nav>li.separator {*/
+    /*height: 18px;*/
+    /*width: 1px;*/
+    /*background: #F0F3F5;*/
+    /*padding: 0;*/
+    /*margin: 26px 0 0;*/
+/*}*/
+
+/*.page-header.navbar .top-menu .navbar-nav>li.dropdown {*/
+    /*margin: 0;*/
+    /*padding: 0;*/
+    /*height: 75px;*/
+    /*display: inline-block;*/
+/*}*/
+
+/*.page-header.navbar .top-menu .navbar-nav>li.dropdown>.dropdown-toggle {*/
+    /*margin: 0;*/
+    /*padding: 29px 12px 24px;*/
+/*}*/
+
+/*.page-header.navbar .top-menu .navbar-nav>li.dropdown-extended .dropdown-menu {*/
+    /*min-width: 160px;*/
+    /*max-width: 275px;*/
+    /*width: 275px;*/
+    /*z-index: 9995;*/
+/*}*/
+
+/*.page-header.navbar .top-menu .navbar-nav>li.dropdown .dropdown-menu {*/
+    /*margin-top: 9px;*/
+    /*-webkit-border-radius: 4px;*/
+    /*-moz-border-radius: 4px;*/
+    /*-ms-border-radius: 4px;*/
+    /*-o-border-radius: 4px;*/
+    /*border-radius: 4px;*/
+/*}*/
+
+/*.page-header.navbar .top-menu .navbar-nav>li.dropdown-extended .dropdown-menu>li.external {*/
+    /*display: block;*/
+    /*overflow: hidden;*/
+    /*padding: 15px;*/
+    /*letter-spacing: .5px;*/
+    /*-webkit-border-radius: 4px 4px 0 0;*/
+    /*-moz-border-radius: 4px 4px 0 0;*/
+    /*-ms-border-radius: 4px 4px 0 0;*/
+    /*-o-border-radius: 4px 4px 0 0;*/
+    /*border-radius: 4px 4px 0 0;*/
+/*}*/
+
+/*.page-header.navbar .page-actions {*/
+    /*margin: 17px 0 15px;*/
+    /*padding: 0;*/
+    /*float: left;*/
+/*}*/
+
+/*.page-header.navbar .page-top {*/
+    /*height: 75px;*/
+    /*float: right;*/
+/*}*/
+
+/*@media (min-width: 992px) {*/
+    /*.page-sidebar.navbar-collapse {*/
+        /*max-height: none !important;*/
+    /*}*/
+/*}*/
+
+/*@media (min-width: 992px) {*/
+    /*.page-sidebar {*/
+        /*width: 300px;*/
+    /*}*/
+/*}*/
+
+/*.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover.navbar-collapse, .page-sidebar.navbar-collapse {*/
+    /*padding: 0;*/
+    /*box-shadow: none;*/
+/*}*/
+
+/*.page-sidebar, .page-sidebar .page-sidebar-menu {*/
+    /*margin-bottom: 0px;*/
+/*}*/
+
+/*.page-sidebar .page-sidebar-menu, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu {*/
+    /*-webkit-border-radius: 4px;*/
+    /*-moz-border-radius: 4px;*/
+    /*-ms-border-radius: 4px;*/
+    /*-o-border-radius: 4px;*/
+    /*border-radius: 4px;*/
+    /*list-style: none;*/
+    /*margin: 10px 0 0;*/
+    /*padding: 0;*/
+/*}*/
+
+/*.page-header-fixed .page-container {*/
+    /*margin-top: 75px;*/
+/*}*/
+
+/*.page-container {*/
+    /*margin: 0;*/
+    /*!* padding: 20px 20px 0; *!*/
+    /*padding: 0;*/
+    /*position: relative;*/
+/*}*/
+
+/*.page-sidebar .page-sidebar-menu>li, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu>li {*/
+    /*display: block;*/
+    /*margin: 0;*/
+    /*padding: 0;*/
+    /*border-bottom: 1px solid #eceff2;*/
+    /*text-align: left;*/
+/*}*/
+
+/*.page-sidebar .page-sidebar-menu>li>a, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu>li>a {*/
+    /*display: block;*/
+    /*position: relative;*/
+    /*margin: 1px 0 0;*/
+    /*border: 0;*/
+    /*padding: 12px 15px;*/
+    /*text-decoration: none;*/
+/*}*/
+
+/*.page-sidebar .page-sidebar-menu>li>a>[class^=icon-], .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu>li>a>[class^=icon-] {*/
+    /*top: 2px;*/
+    /*margin-left: 1px;*/
+    /*margin-right: 4px;*/
+/*}*/
+
+/*.page-sidebar .page-sidebar-menu>li>a>i, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu>li>a>i {*/
+    /*font-size: 16px;*/
+    /*text-shadow: none;*/
+    /*font-weight: 600;*/
+/*}*/
+
+/*.page-sidebar .page-sidebar-menu>li>a>.title, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu>li>a>.title {*/
+    /*font-size: 16px;*/
+    /*font-weight: 600;*/
+    /*text-transform: uppercase;*/
+/*}*/
+
+/*.page-sidebar .page-sidebar-menu>li, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu>li {*/
+    /*display: block;*/
+    /*margin: 0;*/
+    /*padding: 0;*/
+    /*border-bottom: 1px solid #eceff2;*/
+    /*text-align: left;*/
+/*}*/
+
+/*.page-header.navbar .page-logo .logo-default {*/
+    /*margin: 5px 0;*/
+/*}*/
+
+/*!*.page-content-wrapper .page-content {*!*/
+    /*!*background: white;*!*/
+/*!*}*!*/
+
+/*.view-users .page-bar {*/
+    /*border-bottom: 1px solid #e7ecf1;*/
+/*}*/
+
+/*.edit-users .page-bar {*/
+    /*border-bottom: 1px solid #e7ecf1;*/
+/*}*/
+
+.page-content .page-bar {
+    border-bottom: 1px solid #e7ecf1;
+}
+
+.page-content .page-bar {
+    background-color: #fff;
+    position: relative;
+    padding: 0 20px;
+    margin: -25px -20px 0;
+}
+
+.page-content .page-bar .page-breadcrumb {
+    padding: 11px 0;
+}
+
+.page-bar .page-breadcrumb>li {
+    display: inline-block;
+}
+
+.page-bar .page-breadcrumb {
+    margin-bottom: 0;
+}
+
+.page-content .page-bar .page-breadcrumb>li>i.fa-circle {
+    font-size: 5px;
+    margin: 0 5px;
+    position: relative;
+    top: -3px;
+    opacity: .4;
+    filter: alpha(opacity=40);
+}
+
+h1.page-title {
+    font-size: 22px;
+}

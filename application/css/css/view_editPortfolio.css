@@ -1,0 +1,180 @@
+.font {
+	font-family: 'walkway_boldregular';
+}
+.font-thin {
+	font-family: 'walkway_semiboldregular';
+}
+.font-bold {
+	font-family: 'walkway_ultraboldregular';
+}
+.clsInnerpageCommon .clsEditProfile p {
+	padding-left: 0em !important;
+	overflow: hidden;
+	margin: 0 0 5px !important;
+}
+
+.clsEditProfile {
+	padding-left: 0px;
+}
+
+.clsEditProfile input, .clsEditProfile textarea, .clsEditProfile img {
+	/*padding-left:10px !important;*/
+	
+}
+
+.edit_emp input {
+	text-align: left;
+	width: 260px;
+	padding: 7px;
+	float: left;
+}
+
+.edit_emp input.clsLogin_but {
+	width: auto !important;
+}
+
+.edit_emp p {
+	padding-left: 0px;
+}
+
+.edit_emp span {
+	text-align: left;
+	padding-left: 0;
+	float: left;
+}
+
+.manage_port {
+	text-align: left;
+	overflow: hidden;
+	border: none !important;
+}
+
+#selAreaExpertise table {
+	border: none;
+	background: none;
+	width: 100% !important;
+}
+
+#selAreaExpertise td {
+	float: left;
+	margin: 5px 0;
+	width: 100%;
+}
+
+#selAreaExpertise input {
+	width: auto !important;
+}
+
+.clsEditProfile span {
+	padding: 0px;
+}
+
+#selAreaExpertise input.check {
+	margin: 2px 3px 0 0 !important;
+	vertical-align: bottom !important;
+}
+
+a.remove_field {
+	margin: 0 0 0 5px;
+}
+
+input#selecctall {
+	width: auto !important;
+}
+
+li.clsPercent10 {
+	background: none repeat scroll 0 0 #fa2020;
+	color: #fff;
+	font-size: 16px;
+	padding: 10px 5px;
+	text-align: center;
+}
+
+.clsPercent30 {
+	font-weight: 700;
+	font-size: 14px;
+}
+
+/*.clsInnerCommon h2 {
+	text-align: left !important;
+	border-bottom: 3px solid #FA201F;
+	color: #272727;
+}*/
+
+.clsOptionalDetails li {
+	overflow: hidden;
+}
+
+.clsOptionalDetails ul {
+	padding-left: 1em !important;
+}
+
+.clsInnerCommon form p, .clsPostProject p, .clsInnerCommon p,
+	.clsInnerCommon ul {
+	padding-left: 0 !important;
+}
+
+.clsInnerCommon ul {
+	
+}
+
+.clsPostProject li ul {
+	margin: 0 10px 10px 0px;
+	padding: 0 !important;
+	clear: both;
+	overflow: hidden;
+}
+
+.clsPostProject li ul.chk-container li {
+	width: 33%;
+	margin: 0 0 5px !important;
+}
+
+.clsPostProject li ul li {
+	float: left;
+}
+
+.post_border ul {
+	
+}
+
+.clsFloatedList {
+	background: #fff;
+	border: 1px solid #d0d0d0;
+	border-bottom: 5px solid #d0d0d0;
+	clear: both;
+	margin: 0;
+	position: relative;
+	z-index: 9;
+	padding: 15px 0 0 !important;
+}
+
+.clsPercent50 {
+	
+}
+
+li h5 {
+	margin-top: 5px;
+}
+
+.clsPostProject span {
+	padding: 0px !important;
+}
+
+.clsPostProject h5 {
+	padding: 0px;
+}
+
+.post_border li input, .post_border li select {
+	width: 320px;
+}
+
+.post_border  input.check {
+	width: auto !important;
+	margin: 0 5px !important;
+}
+
+.post_border textarea {
+	width: 100%;
+	background: #fff;
+}

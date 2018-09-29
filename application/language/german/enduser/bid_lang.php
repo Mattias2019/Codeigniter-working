@@ -1,0 +1,31 @@
+<?php
+$lang['You must be logged in as a Programmer to bid projects']					= 'Sie müssen als Konsultant eingeloggt sein um auf Projekte bieten zu können';
+$lang['Bid_Amount_validation'] 													= 'Menge bieten';
+$lang['Bid_days_validation'] 													= 'Tage';
+$lang['description_validation']													= 'Nachricht';
+$lang['You must be logged in as a programmer to place a bid']	            	= 'Sie müssen als Konsultant eingeloggt sein um ein Angebot platzieren zu können';
+$lang['Bid on Project']	            											= 'Auf Projekt bieten';
+$lang['Your Bid']	            												= 'Ihr Angebot';
+$lang['Delivery Time']	            											= 'Lieferzeit';
+$lang['Bid Details']	            											= 'Angebotsdetails';
+$lang['Portfolio']	            												= 'Portfolio';
+$lang['Days']	            													= 'Tage';
+$lang['Hours']	            													= 'Stunden';
+$lang['Characters Left']	            										= 'Zeichen übrig';
+$lang['Submit']	            													= 'Abschicken';
+$lang['Preview']	            												= 'Vorschau';
+$lang['Your bid Has Been edited Successfully']	            					= 'Ihr Angebot wurde erfolgreich bearbeitet';
+$lang['Your bid Has Been Posted Successfully']	            					= 'Ihr Gebot wurde erfolgreich erfasst. Wenn Sie sich entscheiden, ein neues Angebot auf dieses Projekt zu machen, wird Ihr altes Gebot ersetzt. Sie werden per E-Mail benachrichtigt werden, wenn dieses Projekt schließt.';
+$lang['Your are not having sufficient Balance']	            					= 'Sie haben kein ausreichendes Guthaben';
+$lang['Project Fee for Bid']	            					                = 'Projektgebühr für das Angebot';
+$lang['Project Fee']	            					                        = 'Projektgebühr';
+$lang['Programmer']	            					                            = 'Konsultant';
+$lang['Buyer']	            					                                = 'Unternehmen';
+$lang['Project Fee for Featured Project']	            					    = 'Gekennzeichnet';
+$lang['Project Fee for Urgent Project']	            					        = 'Dringend';
+$lang['Project Fee for hide bids Project']	            					    = 'Angebote verstecken';
+$lang['Project Fee for Private Project']	            					    = 'Privat';
+$lang['Job Fee']	            					                            = 'Projektgebühr';
+$lang['Project Fee']	            					                        = 'Projektgebühr';
+$lang['Bid on Job']																= 'Auf Projekt bieten';
+?>

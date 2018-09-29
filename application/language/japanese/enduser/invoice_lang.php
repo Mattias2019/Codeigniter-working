@@ -1,0 +1,30 @@
+<?php
+$lang['Job Message Board']	            	= 'プロジェクトメッセージボード';
+$lang['Job']								= 'プロジェクト名';
+$lang['To']							        = 'へ';
+$lang['You can select multiple jobs by holding down the CTRL key'] = 'あなたは、Ctrlキーを押しながら複数のプロジェクトを選択することができます。';
+$lang['Your name and address']					= 'あなたの名前と住所。';
+$lang['Message for Everyone']					= '公共のメッセージ';
+$lang['Invoice Report']					        = '請求書レポート';
+$lang['Invoice No']					            = '請求書はありません';
+$lang['Optional']					            = '[オプショナル]';
+$lang['Company']					            = '会社';
+$lang['Maventricks']					        = 'コンサルタントマーケットプレース';
+$lang['Address']					            = 'アドレス';
+$lang['date']					                = '日付 - ';
+$lang['Company Address']					    = 'Sumter, SC';
+$lang['No']					                    = 'ノー';
+$lang['description']					        = '説明';
+$lang['amount']					                = '額';
+$lang['Total']					                = '合計';
+$lang['You do not have any jobs posted yet']  = 'あなたはまだ投稿すべてのプロジェクトを持っていません。';
+$lang['There is no payment is closed to view Invoice']  = 'ご入金請求書を表示するには、閉じていないがあります。';
+$lang['S No.'] 	= 'シリアル番号';				
+$lang['Job Name'] 	= 'プロジェクト名';
+$lang['Posted By'] 	= '投稿者';
+$lang['Total Bid Amount'] 	= '合計入札金額';
+$lang['Bid Won By'] 	= '入札ウォン';
+$lang['Bid Created'] 	= '入札に作成';
+$lang['Amount Remaining'] 	= '残量';
+$lang['Invoice'] 	= 'インボイス';
+?>

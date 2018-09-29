@@ -1,0 +1,30 @@
+<?php
+$lang['Job Message Board']	            	= 'Projekt Message Board';
+$lang['Job']								= 'Projektname';
+$lang['To']							        = 'An';
+$lang['You can select multiple jobs by holding down the CTRL key'] = 'Sie können mehrere Projekte auswählen indem Sie die STRG-Taste gedrückt halten.';
+$lang['Your name and address']					= 'Ihr Name und Adresse.';
+$lang['Message for Everyone']					= 'Öffentliche Nachricht';
+$lang['Invoice Report']					        = 'Rechnungsbericht';
+$lang['Invoice No']					            = 'Rechnung Nr';
+$lang['Optional']					            = '[Optional]';
+$lang['Company']					            = 'Firma';
+$lang['Maventricks']					        = 'Konsultant Marktplatz';
+$lang['Address']					            = 'Addresse';
+$lang['date']					                = 'Datum - ';
+$lang['Company Address']					    = 'Sumter, SC';
+$lang['No']					                    = 'Nr';
+$lang['description']					        = 'Beschreibung';
+$lang['amount']					                = 'Menge';
+$lang['Total']					                = 'Summe';
+$lang['You do not have any jobs posted yet']  = 'Sie haben noch keine Projekte gepostet.';
+$lang['There is no payment is closed to view Invoice']  = 'Es wurde noch keine Zahlung geschlossen um die Rechnung anzusehen.';
+$lang['S No.'] 	= 'Sl No.';				
+$lang['Job Name'] 	= 'Projektname';
+$lang['Posted By'] 	= 'Gepostet von';
+$lang['Total Bid Amount'] 	= 'Summe Angebotsmenge';
+$lang['Bid Won By'] 	= 'Angebot gewonnen von';
+$lang['Bid Created'] 	= 'Angebot erstellt';
+$lang['Amount Remaining'] 	= 'Übrige Menge';
+$lang['Invoice'] 	= 'Rechnung';
+?>

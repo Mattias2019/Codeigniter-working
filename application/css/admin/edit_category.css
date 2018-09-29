@@ -1,0 +1,50 @@
+.logo-container
+{
+    height: 128px;
+    width: 128px;
+    border: 1px solid black;
+    /*border-radius: 50%;*/
+    /*margin: auto;*/
+}
+.logo-container > .dropzone, .logo-container > .dropzone > .dz-preview, .logo-container > .dropzone > .dz-preview > .dz-image
+{
+    height: 100%;
+    width: 100%;
+    /*border-radius: 50%;*/
+    margin: 0;
+    padding: 0;
+}
+.logo-container > .dropzone > .dz-message
+{
+    font-size: 64px;
+    margin: 14px 0;
+}
+
+.logo-container > .dropzone > .dz-preview > .dz-image
+{
+    border-radius: 0;
+    position: static;
+}
+.logo-container > .dropzone > .dz-preview > .dz-image > img
+{
+    height: 100%;
+    width: 100%;
+}
+
+.logo-container-inner
+{
+    height: 100%;
+    width: 100%;
+    /*border-radius: 50%;*/
+    overflow: hidden;
+}
+.logo-image
+{
+    height: 100%;
+    width: 100%;
+}
+
+#delete_logo
+{
+    margin: 40px 0;
+}

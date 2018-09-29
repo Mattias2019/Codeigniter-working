@@ -1,0 +1,27 @@
+<?php
+$lang['rss_feeds']	    			= 'Rss订阅';
+$lang['We_have several RSS feeds available to keep you up to date on the newest jobs posted on']	= '我们有多个可用RSS订阅，可让您掌握最新发布的项目';
+$lang['Click any links below to see an RSS feed, or use the form below to create your custom feed']	    = '点击以下任何链接查看一个RSS订阅，或使用以下表格创建您的定制订阅';
+$lang['Jobs Feed']		    		= '项目订阅';
+$lang['Feed Content']	    		= '订阅内容';
+$lang['Titles']	   					= '标题';
+$lang['Titles + Description']    	= '标题+描述';
+$lang['All Jobs']    				= '所有项目';
+$lang['Jobs']    					= '项目';
+$lang['The newest jobs posted on']  = '最新发布的项目';
+$lang['Copyright']  				= '版权';
+$lang['Custom RSS Feed']='定制RSS订阅';
+$lang['Create']='选择您想要的选项，创建您的定制RSS订阅。';
+$lang['No of jobs to display:']='显示的项目数量：';
+$lang['Info to display:']='显示的信息：';
+$lang['Categories']='类别';
+$lang['Only']='仅';
+$lang['Featured']='精选'; 
+$lang['Urgent']='紧急';
+$lang['jobs.']='项目。';
+$lang['Keywords to match:']='匹配关键词：';
+$lang['search']='搜索标题和完整描述。用逗号隔开每个关键词。例如：lean, message board, Kanban';
+$lang['Create RSS Feed']='创建RSS订阅';
+$lang['en-us']='en-us';
+$lang['Sat, 17 Jan 2009 05:30:39 GMT']='2009年01月17，星期六 05:30:39 GMT';
+$lang['(c) 2009']='(c) 2009';

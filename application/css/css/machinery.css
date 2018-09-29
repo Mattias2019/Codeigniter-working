@@ -1,0 +1,139 @@
+.machinery-item-container
+{
+    float: left;
+    margin: 0;
+    padding: 1%;
+    width: 25%;
+}
+@media only screen and (max-width: 1500px) {
+    .machinery-item-container
+    {
+        width: 33%;
+    }
+}
+@media only screen and (max-width: 900px) {
+    .machinery-item-container
+    {
+        width: 50%;
+    }
+}
+@media only screen and (max-width: 320px) {
+    .machinery-item-container
+    {
+        width: 100%;
+    }
+}
+
+.machinery-item
+{
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #fafafa;
+    border: 1px solid #bdbdbd;
+    border-top: 4px solid #1E88E5;
+}
+
+.machinery-image
+{
+    margin: 0;
+    width: 100%;
+    height: 60%;
+}
+.machinery-caption
+{
+    margin: 0;
+    width: 100%;
+    height: 40%;
+    overflow: hidden;
+}
+.machinery-title
+{
+    height: 37px;
+    padding: 10px;
+    background-color: #373737;
+    color: #fff;
+    text-align: left;
+    text-transform: uppercase;
+}
+.machinery-name
+{
+    display: inline-block;
+    max-width: 70%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.machinery-price-container, .machinery-compare-container
+{
+    float: right;
+}
+.machinery-price
+{
+    color: #8bc34a;
+}
+.machinery-desc
+{
+    height: calc(100% - 74px);
+    overflow: hidden;
+    padding: 10px;
+    text-align: left;
+}
+.machinery-foot
+{
+    height: 37px;
+    padding: 10px;
+    text-align: left;
+}
+.machinery-read-more, .machinery-read-more:active, .machinery-read-more:hover, .machinery-read-more:visited
+{
+    color: #1E88E5;
+}
+input.machinery-compare
+{
+    margin: 0;
+    height: auto;
+}
+
+.load-more
+{
+    width: 100%;
+    padding: 20px;
+    text-align: right;
+}
+.load-more > a,  .load-more > a:active, .load-more > a:hover, .load-more > a:visited
+{
+    color: #1E88E5;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.compare
+{
+    float: right;
+    padding: 20px;
+}
+
+.machinery-items
+{
+    background-color: #dddddd;
+    border: 1px solid #bdbdbd;
+    border-top: none;
+    overflow-y: auto;
+    padding: 10px;
+    text-transform: uppercase;
+}
+.machinery-item-name
+{
+    color: #bdbdbd;
+    display: inline-block;
+    width: 55%;
+    margin-bottom: 8px;
+}
+.machinery-item-value
+{
+    color: #404451;
+    display: inline-block;
+    width: 42%;
+    margin-bottom: 8px;
+}

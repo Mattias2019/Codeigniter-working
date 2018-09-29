@@ -1,0 +1,33 @@
+paths:
+    migrations: %%PHINX_CONFIG_DIR%%/db/migrations
+    seeds: %%PHINX_CONFIG_DIR%%/db/seeds
+
+environments:
+    default_migration_table: phinxlog
+    default_database: development
+    production:
+        adapter: mysql
+        host: localhost
+        name: m_marketplace
+        user: m_marketplace
+        pass: 'QdR7mn34T'
+        port: 3306
+        charset: utf8
+
+    development:
+        adapter: mysql
+        host: localhost
+        name: marketplace
+        user: morozov-ia
+        pass: 'tobefree1993'
+        port: 3306
+        charset: utf8
+
+    testing:
+        adapter: mysql
+        host: localhost
+        name: m_marketplace
+        user: m_marketplace
+        pass: 'QdR7mn34T'
+        port: 3306
+        charset: utf8

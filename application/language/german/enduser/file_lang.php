@@ -1,0 +1,29 @@
+<?php
+$lang['note']	 						 = 'Dateien posten um sie privat mit anderen Benutzern zu teilen.';
+$lang['File Manager'] 					 = 'Dateimanager';
+$lang['File type'] 					     = 'Dateityp';
+$lang['Size'] 					         = 'Größe';
+$lang['Expiery'] 					     = 'Ablauf';
+
+$lang['Remove']							 = 'Entfernen';
+$lang['Upload File']					 = 'Datei hochladen:';
+$lang['Upload Button']					 = 'Datei hochladen';
+$lang['desc']		        			 = 'Beschreibung:';
+$lang['upload_validation']	   			 = 'Datei hochgeladen';
+$lang['Desc_validation']      			 = 'Beschreibung';
+$lang['update_confirm_success']   	     = 'Datei erfolgreich aktualisiert';
+$lang['update_delete_success']           = 'Dateien erfolgreich gelöscht';
+$lang['Upload file is needed']           = 'Datei zum Hochladen benötigt';
+//$lang['allowed files']                   = 'Erlaubte Dateitypen sind PNG|JPEG|GIF|XLS|PPT|DOC|TXT';
+$lang['File size is Exceed']             = 'Ihre Dateigröße hat die erlaubte Größe überschritten';
+$lang['Remove']                          ='Entfernen';
+$lang['Shared File Download']='Geteilter Datei-Download';
+$lang['You are currently logged in as']='Sie sind derzeit eingeloggt als';
+$lang['File Name:']='Dateiname:';
+$lang['Description:']='Beschreibung:';
+$lang['Size:']='Größe:';
+$lang['Posted by:']='Gepostet von:';
+$lang['logout']='Ausloggen';
+$lang['KB']='KB';
+$lang['(']='(';
+$lang[').']=').';

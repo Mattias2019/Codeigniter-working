@@ -1,0 +1,69 @@
+.filter-date {
+    position: relative;
+}
+.filter-date-calendar {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    width: 24px;
+}
+.filter-date-calendar .svg-calendar {
+    height: 24px;
+    width: 24px;
+}
+.filter strong {
+    margin-left: 16px;
+    margin-right: 16px;
+    text-transform: uppercase;
+}
+.filter em {
+    font-style: normal;
+    color: #1e88e5;
+}
+
+#revenue-chart .amcharts-label, #spending-chart .amcharts-label {
+    text-transform: uppercase;
+}
+#revenue-chart .amcharts-category-axis .amcharts-axis-label, #spending-chart .amcharts-category-axis .amcharts-axis-label {
+    text-transform: uppercase;
+}
+
+.finance-info-cell {
+    display: inline-block;
+    min-width: 60px;
+    vertical-align: top;
+}
+.finance-info-bullet {
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    background-color: #83c145;
+    color: #ffffff;
+    border-radius: 50%;
+    line-height: 40px;
+    text-align: center;
+}
+.finance-info-header {
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-right: 20px;
+    line-height: 32px;
+}
+.finance-info-value {
+    line-height: 32px;
+    margin-right: 20px;
+}
+.finance-info-image {
+    height: 32px;
+}
+.finance-info-label {
+    margin-right: 20px;
+}
+.finance-info-select {
+    background-color: #ffffff;
+    min-width: 200px;
+}
+.finance-info-button {
+    float: right;
+    margin-top: 10px;
+}

@@ -1,0 +1,50 @@
+<?php  
+$lang['total_validation']	 						 = '額';
+$lang['Paypal']	 						 			 = 'Paypal';
+$lang['Dont have rights to access this page']	     = 'このページにアクセスする権限がありません';
+$lang['owner_id_validation']	 					 = 'エンタープライズ';
+$lang['job_id_validation']	 					 = 'プロジェクト';
+$lang['amount_validation']	 						 = '額';
+$lang['employee_id_validation']	 				 = 'コンサルタント';
+$lang['Select Programmer']	 				         = 'セレクトコンサルタント';
+$lang['Select Buyer']	 				             = 'セレクトエンタープライズ';
+$lang['Select Job']	 				             = 'プロジェクトを選択';
+$lang['Transfer Amount']	 				         = '額';
+$lang['Job Amount']	 				        = 'プロジェクト金額:';
+$lang['Due Amount']	 				         = '未払額: ';
+$lang['Note: Do not use commas']	 				         = '注：カンマを使用しないでください ';
+$lang['N/A']	 				         = 'N/A';
+$lang['Select Developer']	 		= 'セレクト開発';
+$lang['Escrow due complete']	 				         = '原因完全なエスクロー';
+$lang['Paid']	 				         = '支払われた';
+$lang['Number of milestone payments:']	 				         = '目標達成報奨金の数： ';
+$lang['Send Money']	 				                 = 'お金を送る';
+$lang['Please Choose the Job']	 				 = 'プロジェクトIDを選択して下さい';
+$lang['Please Choose the Employee']	 			 = 'コンサルタントを選択して下さい';
+$lang['Please enter the Amount']	 				 = '金額を入力してください';
+$lang['Your Transaction successfully Completed']	 = 'あなたのトランザクションが正常に完了';
+$lang['Transfer Amount should not be empty']	 	 = '転送量は、空またはゼロであってはならない';
+$lang['You donot have enough balance in your account to escrow the money']	= 'あなたはお金をエスクローためにあなたの口座に十分な残高を持っていない';
+$lang['Escrow Amount Tansfer Through']               =  'プロジェクトの金額転送のエスクロー -- '; 
+$lang['Tansfer Amount Through']                      =  'スルー金額を転送';
+$lang['Enter the Amount']                            =  '金額を入力します';
+$lang['Invalid Input Value']                         =  '無効な入力値';
+$lang['Escrow Funds']='Escrow Funds';
+
+$lang['Escrow confirm']='コンサルタントへのエスクロー資金のリリースを確認してください？';
+$lang['User name :']='ユーザー名 :';
+$lang['Escrow Funds']='エスクロー資金';
+$lang['Account Balance:']='アカウント残高:';
+$lang['select']='下記のお好みの入金方法を選択して、[預金]ボタンをクリックします。';
+$lang['SI.No']='シリアル番号';
+$lang['From']='から';
+$lang['Amount']='額';
+$lang['Date']='日付';
+$lang['Status']='ステータス';
+$lang['My Escrow Transactions']='私のエスクロー取引';
+$lang['To']='へ';
+$lang['Transfer']='転送';
+$lang['Release']='リリース';
+$lang['Employee Name']='コンサルタント名';
+
+?>

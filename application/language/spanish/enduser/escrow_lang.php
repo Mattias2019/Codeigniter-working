@@ -1,0 +1,50 @@
+<?php  
+$lang['total_validation']	 						 = 'cantidad';
+$lang['Paypal']	 						 			 = 'Paypal';
+$lang['Dont have rights to access this page']	     = '¿No tiene derechos para acceder a esta página';
+$lang['owner_id_validation']	 					 = 'empresa';
+$lang['job_id_validation']	 					 = 'proyecto';
+$lang['amount_validation']	 						 = 'cantidad';
+$lang['employee_id_validation']	 				 = 'consultor';
+$lang['Select Programmer']	 				         = 'Seleccione Consultor';
+$lang['Select Buyer']	 				             = 'Seleccione Empresa';
+$lang['Select Job']	 				             = 'Seleccione Proyecto';
+$lang['Transfer Amount']	 				         = 'cantidad';
+$lang['Job Amount']	 				        = 'Proyecto Monto:';
+$lang['Due Amount']	 				         = 'debido Monto: ';
+$lang['Note: Do not use commas']	 				         = 'Nota: No utilice comas ';
+$lang['N/A']	 				         = 'N/A';
+$lang['Select Developer']	 		= 'Seleccione desarrollador';
+$lang['Escrow due complete']	 				         = 'Fideicomiso debido completa';
+$lang['Paid']	 				         = 'pagado';
+$lang['Number of milestone payments:']	 				         = 'Número de pagos por hitos: ';
+$lang['Send Money']	 				                 = 'Enviar dinero';
+$lang['Please Choose the Job']	 				 = 'Por favor, elija el ID de proyecto';
+$lang['Please Choose the Employee']	 			 = 'Por favor, elija el Consultor';
+$lang['Please enter the Amount']	 				 = 'Por favor, introduzca la cantidad';
+$lang['Your Transaction successfully Completed']	 = 'Su transacción completada con éxito';
+$lang['Transfer Amount should not be empty']	 	 = 'Transferencia cantidad no debería estar vacío o cero';
+$lang['You donot have enough balance in your account to escrow the money']	= 'Usted no tiene saldo suficiente en su cuenta para depositar el dinero';
+$lang['Escrow Amount Tansfer Through']               =  'Fideicomiso monto de la transferencia para el proyecto -- '; 
+$lang['Tansfer Amount Through']                      =  'Transfiera el importe medio de';
+$lang['Enter the Amount']                            =  'Ingrese la Cantidad';
+$lang['Invalid Input Value']                         =  'Valor no válido de entrada';
+$lang['Escrow Funds']='Escrow Funds';
+
+$lang['Escrow confirm']='Confirme liberación de fondos del fideicomiso de Consultor?';
+$lang['User name :']='Nombre de usuario :';
+$lang['Escrow Funds']='Fondos en Reserva';
+$lang['Account Balance:']='Saldo de la cuenta:';
+$lang['select']='Seleccione su método de depósito preferido y abajo y pulse el botón de depósito.';
+$lang['SI.No']='Número de serie';
+$lang['From']='desde';
+$lang['Amount']='cantidad';
+$lang['Date']='fecha';
+$lang['Status']='estado';
+$lang['My Escrow Transactions']='Mis Transacciones Escrow';
+$lang['To']='a';
+$lang['Transfer']='transferencia';
+$lang['Release']='liberación';
+$lang['Employee Name']='Consultor Nombre';
+
+?>

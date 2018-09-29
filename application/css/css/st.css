@@ -1,0 +1,67 @@
+/* CSS Document */
+td{
+/* font-size: 11px;*/
+ color: #000;
+
+
+}
+.vtop {
+	 vertical-align:top !important;	
+	}
+
+.clsBoldFont td{
+	font-weight:bold;
+	/*font-size:12px !important;*/
+	}
+ a{
+  color: #000;
+ }
+.dt{
+/*  background:url(../images/bg_table.jpg) repeat-x;
+  color: #000;
+  font-weight: bold;
+  padding-left: 4px;
+  border:1px solid #DBDBDD;*/
+  background: #393939 !important;
+    border: medium none !important;
+    color: #fff;
+   /* font: bold 11px open sans;*/
+    height: 35px;
+    padding: 0 10px;
+    text-align: left;
+	font-weight:700;
+ }
+
+  .dtb{
+  background-color: #86B5FF;
+  color: #000;
+  font-weight: bold;
+  padding-left: 4px;
+ }
+/*.dt0{
+  border-left:1px solid #FDFDFD !important;
+  }
+ .dt1{
+  background-color: #FDFDFD;
+  padding:.5em 0;
+  border-left:1px solid #DBDBDD;
+  padding-left:4px;
+  }*/
+
+/* .dt2{
+  background-color: #F3F5F4;
+  border-left:1px solid #DBDBDD;  
+  padding:.5em 0;
+  padding-left:4px;
+ }
+*/
+/*.dt3 {
+  border-left:none !important;	
+  }
+.dt4 {
+  border-right:none !important;	
+ }*/
+ 
+ td a:hover{
+ color:#0788FF!important;
+ }

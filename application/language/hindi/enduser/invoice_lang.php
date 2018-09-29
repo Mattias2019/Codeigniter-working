@@ -1,0 +1,30 @@
+<?php
+$lang['Job Message Board']	            	= 'परियोजना संदेश बोर्ड';
+$lang['Job']								= 'परियोजना का नाम';
+$lang['To']							        = 'को';
+$lang['You can select multiple jobs by holding down the CTRL key'] = 'आप Ctrl कुंजी नीचे पकड़े द्वारा कई परियोजनाओं का चयन कर सकते हैं।';
+$lang['Your name and address']					= 'अपना नाम और पता।';
+$lang['Message for Everyone']					= 'सार्वजनिक संदेश';
+$lang['Invoice Report']					        = 'चालान की रिपोर्ट';
+$lang['Invoice No']					            = 'चालान नहीं';
+$lang['Optional']					            = '[ऐच्छिक]';
+$lang['Company']					            = 'कंपनी';
+$lang['Maventricks']					        = 'सलाहकार बाज़ार';
+$lang['Address']					            = 'पता';
+$lang['date']					                = 'दिनांक - ';
+$lang['Company Address']					    = 'Sumter, SC';
+$lang['No']					                    = 'ना';
+$lang['description']					        = 'विवरण';
+$lang['amount']					                = 'राशि';
+$lang['Total']					                = 'टोटल';
+$lang['You do not have any jobs posted yet']  = 'आपने अभी तक तैनात किसी भी परियोजनाओं के लिए नहीं है।';
+$lang['There is no payment is closed to view Invoice']  = 'कोई भुगतान चालान देखने के लिए बंद कर दिया जाता है है।';
+$lang['S No.'] 	= 'एस नहीं।';				
+$lang['Job Name'] 	= 'परियोजना का नाम';
+$lang['Posted By'] 	= 'द्वारा प्रकाशित किया गया था';
+$lang['Total Bid Amount'] 	= 'कुल बोली राशि';
+$lang['Bid Won By'] 	= 'बोली जीती तक';
+$lang['Bid Created'] 	= 'बोली बनाया';
+$lang['Amount Remaining'] 	= 'शेष राशि';
+$lang['Invoice'] 	= 'बीजक';
+?>

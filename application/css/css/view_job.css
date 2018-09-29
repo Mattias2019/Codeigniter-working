@@ -1,0 +1,157 @@
+/* Some basic styles */
+.clsHeadingRight a img {
+	margin: 1px 0 0 !important;
+}
+
+*, *:before, *:after {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+[data-tooltip] {
+	position: relative;
+	z-index: 2;
+	cursor: pointer;
+}
+/* Hide the tooltip content by default */
+[data-tooltip]:before, [data-tooltip]:after {
+	visibility: hidden;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+	opacity: 0;
+	pointer-events: none;
+}
+
+/* Position tooltip above the element */
+[data-tooltip]:before {
+	background-color: hsla(0, 0%, 20%, 0.9);
+	border-radius: 3px;
+	bottom: 120%;
+	color: #fff;
+	content: attr(data-tooltip);
+	font-size: 14px;
+	left: 0;
+	line-height: 1.2;
+	margin-bottom: 5px;
+	margin-left: -50px;
+	padding: 7px 0;
+	position: absolute;
+	text-align: center;
+	width: 120px;
+}
+
+/* Triangle hack to make tooltip look like a speech bubble */
+[data-tooltip]:after {
+	position: absolute;
+	bottom: 120%;
+	left: 50%;
+	margin-left: -5px;
+	width: 0;
+	border-top: 5px solid #000;
+	border-top: 5px solid hsla(0, 0%, 20%, 0.9);
+	border-right: 5px solid transparent;
+	border-left: 5px solid transparent;
+	content: " ";
+	font-size: 0;
+	line-height: 0;
+}
+
+/* Show tooltip content on hover */
+[data-tooltip]:hover:before, [data-tooltip]:hover:after {
+	visibility: visible;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
+	opacity: 1;
+}
+.clsIcons {
+	margin-right: 20px;
+}
+
+table.clsSitelinks {
+	position: relative;
+	z-index: 9;
+}
+
+.slider {
+	float: left;
+	width: 400px;
+	min-height: 340px;
+}
+
+.mapimg {
+	background: none repeat scroll 0 0 #ffffff;
+	float: left;
+	height: 220px;
+	left: 0;
+	padding: 10px;
+	position: relative;
+	right: 0;
+	top: 0;
+	z-index: 99;
+}
+
+.ProjDetails p.projtime {
+	background: none repeat scroll 0 0 #ebebeb;
+	color: #FA201F;
+	float: left;
+	font-size: 18px;
+	font-weight: bold;
+	height: 45px;
+	margin: 0 10px 10px;
+	padding: 13px 0 !important;
+	text-align: center;
+	width: 93%;
+}
+
+.ProjDetails p {
+	padding: 5px 10px 2px;
+}
+
+.ProjDetails h3 {
+	background: none repeat scroll 0 0 #ebebeb;
+	font-size: 15px;
+	height: 40px;
+	line-height: 40px;
+	margin: 7px 7px 15px !important;
+	padding-left: 10px;
+	text-align: left;
+}
+
+span#cntdwn {
+	background-color: transparent !important;
+}
+
+.view_job tr td {
+	text-align: left;
+	padding: 10px;
+	vertical-align: top;
+}
+
+.clsmember thead td {
+	border: 1px solid #e3e3e3 !important;
+}
+
+.clsmember tbody td {
+	background: #fff !important;
+	border: 1px solid #e3e3e3 !important;
+	padding: 5px;
+	text-align: left;
+}
+
+.view_job tr:first-child {
+	background: #f4f4f4;
+}
+
+.view_job tr {
+	background: #fff;
+}
+
+.view_job td {
+	border: 1px solid #eaeaea;
+}
+
+.clsHeadingRight span a {
+	/*margin:5px !important;*/
+	
+}

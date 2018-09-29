@@ -1,0 +1,11 @@
+/* CSS Document */
+.clearfix {zoom:1}
+* html .clsBodyContent{
+width:expression(((document.documentElement.clientWidth || document.body.clientWidth) < 950)? "985px" : "100%");
+}
+.clearfix { 
+zoom: 1;     /* triggers hasLayout */
+}  
+
+/*png fix*/
+/*body,#header,#mainnav,#mainnav a:hover,#categories dl,button, #wrapper .button{ behavior: url(iepngfix.htc) }*/

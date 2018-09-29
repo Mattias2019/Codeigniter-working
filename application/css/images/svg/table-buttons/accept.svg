@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg class="svg-table" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 35 35" enable-background="new 0 0 35 35" xml:space="preserve">
+<path class="svg-table-inner" fill-rule="evenodd" clip-rule="evenodd" fill="#404451" d="M2,0h31c1.1,0,2,0.9,2,2v31c0,1.1-0.9,2-2,2H2c-1.1,0-2-0.9-2-2V2
+	C0,0.9,0.9,0,2,0z"/>
+<path fill="#FFFFFF"
+      fill-opacity="1"
+      stroke="#ffffff"
+      stroke-opacity="1"
+      stroke-width="2"
+      stroke-dasharray="none"
+      stroke-linejoin="miter"
+      stroke-linecap="butt"
+      stroke-dashoffset=""
+      fill-rule="nonzero"
+      opacity="1"
+      marker-start=""
+      marker-mid=""
+      marker-end=""
+      d="M8.264061905908406,16.658873137604765 L15.690222109024134,24.085033340720493 "
+      id="svg_3"/>
+<path fill="#FFFFFF"
+      fill-opacity="1"
+      stroke="#ffffff"
+      stroke-opacity="1"
+      stroke-width="2"
+      stroke-dasharray="none"
+      stroke-linejoin="miter"
+      stroke-linecap="butt"
+      stroke-dashoffset=""
+      fill-rule="nonzero"
+      opacity="1"
+      marker-start=""
+      marker-mid=""
+      marker-end=""
+      d="M14.362055443271892,24.166666016501978 L28.201717639987567,10.327003819786302 "
+      id="svg_7"/>
+</svg>

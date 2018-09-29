@@ -1,0 +1,30 @@
+<?php
+$lang['Job Message Board']	            	= 'Proyecto Foro';
+$lang['Job']								= 'Nombre del proyecto';
+$lang['To']							        = 'a';
+$lang['You can select multiple jobs by holding down the CTRL key'] = 'Puede seleccionar varios proyectos manteniendo pulsada la tecla CTRL.';
+$lang['Your name and address']					= 'Su nombre y dirección.';
+$lang['Message for Everyone']					= 'Mensaje público';
+$lang['Invoice Report']					        = 'Informe de factura';
+$lang['Invoice No']					            = 'factura n';
+$lang['Optional']					            = '[opcional]';
+$lang['Company']					            = 'empresa';
+$lang['Maventricks']					        = 'Consultor del mercado';
+$lang['Address']					            = 'dirección';
+$lang['date']					                = 'fecha - ';
+$lang['Company Address']					    = 'Sumter, SC';
+$lang['No']					                    = 'No';
+$lang['description']					        = 'descripción';
+$lang['amount']					                = 'cantidad';
+$lang['Total']					                = 'total';
+$lang['You do not have any jobs posted yet']  = 'Usted no tiene ningún proyecto todavía publicados.';
+$lang['There is no payment is closed to view Invoice']  = 'No hay pago se cierra para ver la factura.';
+$lang['S No.'] 	= 'S No.';				
+$lang['Job Name'] 	= 'Nombre del proyecto';
+$lang['Posted By'] 	= 'publicado Por';
+$lang['Total Bid Amount'] 	= 'Monto total de la subasta';
+$lang['Bid Won By'] 	= 'La subasta ganada por';
+$lang['Bid Created'] 	= 'Oferta Creado';
+$lang['Amount Remaining'] 	= 'importe restante';
+$lang['Invoice'] 	= 'factura';
+?>

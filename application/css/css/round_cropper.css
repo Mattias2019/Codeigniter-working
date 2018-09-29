@@ -1,0 +1,14 @@
+.crop-image-container {
+    max-width: 640px;
+    margin: 20px auto;
+}
+
+.crop-image-container img {
+    max-width: 100%;
+}
+
+/* Override Cropper's styles */
+.crop-image-container .cropper-view-box,
+.crop-image-container .cropper-face {
+    border-radius: 50%;
+}

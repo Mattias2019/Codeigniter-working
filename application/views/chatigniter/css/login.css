@@ -1,0 +1,29 @@
+.bigicon {
+    font-size: 97px;
+    color: #f96145;
+}
+
+.contcustom {
+    text-align: center;
+    width: 250px;
+    border-radius: 0.5rem;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: 10px auto;
+    padding: 20px;
+}
+
+input {
+    padding: 15px;
+    background-color: #ECF4F4;
+    border-radius: 2px;
+    border: none;
+}
+
+h2 {
+    margin-bottom: 20px;
+    font-weight: bold;
+    color: #ABABAB;
+}

@@ -1,0 +1,30 @@
+<?php
+$lang['Job Message Board']	            	    = 'Project Message Board';
+$lang['Job']								    = 'Project';
+$lang['Post Message']							= 'Post Message';
+$lang['To']										= 'To';
+$lang['Everyone']								= 'Everyone';
+$lang['From']								    = 'From';
+$lang['Private Messsage']						= 'Private Messsage';
+$lang['Note: Only private message to programmer'] = '[ Note: Please enter Company id for private message with comma separate operator ]';
+$lang['Select Job']							    = 'Select Project';
+$lang['Select Owner']							= 'Select Enterprise';
+$lang['Select Employee']						= 'Select Consultant';
+$lang['message_validation']						= 'Message';
+$lang['employee_validation']					= 'To';
+$lang['job_validation']				    	    = 'Project';
+
+$lang['You must be logged in as a Supplier to post messages on the Job Message Board']	= 'You must be logged in as a Company to post messages on the Project Message Board';
+$lang['Your Message Has Been Posted Successfully']						                = 'Your message has been posted successfully';
+$lang['You must be logged to post messages on the Job Message Board']			    	= 'You must be logged to post messages on the Project Message Board';
+$lang['You must be post job to invite employees']		    			                = 'You must be post project to invite clients';
+$lang['You must be logged to invite employees']					                        = 'You must be logged to invite clients';
+$lang['There is no open job to Post Mail']	                                            = 'There is no open project to Post Mail';
+$lang['You are currently logged in as'] ='You are currently logged in as';
+$lang['Tip']='Tip: You can post programming code by placing it within [code] and [/code] tags.'; 
+$lang['Submit']='Submit';
+$lang['Preview']='Preview';
+$lang['Hide']='Hide';
+$lang['Show']='Show';
+$lang['You are currently logged in as']='You are currently logged in as';
+$lang['Job']  = 'Project Name';

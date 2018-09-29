@@ -1,0 +1,145 @@
+/* CSS Document */
+.clsFileManager {	
+	background:url(../images/ic_filemanager.png) no-repeat scroll .5em center;
+	padding:.9em 4em;
+	}
+.clsResend {	
+	background:url(../images/ic_resend.png) no-repeat scroll .5em center;
+	padding:.9em 4em;
+	}
+/*.clsNewBuyer {	
+	background:url(../images/ic_newbuyer.png) no-repeat scroll .5em center;
+	padding:.9em 4em;
+	}*/
+.clsDepositFunds {
+	background:url(../images/ic_depositfunds.png) no-repeat scroll .5em center;
+	padding:.9em 4em;
+	}
+.clsPayMethods {
+	background:url(../images/ic_paymethod.png) no-repeat scroll .5em center;
+	padding:.9em 4em;
+	}	
+.clsDepositTrans {
+	background:url(../images/ic_deposittrans.png) no-repeat scroll .5em center;
+	padding:.9em 4em;
+	}	
+.clsOptContact {
+	background:url(../images/ic_optcontact.png) no-repeat scroll .5em center;
+	padding:0.9em 0 0.9em 4em;
+	}	
+.clsEscrow {
+	background:url(../images/ic_escrowwd.png) no-repeat scroll .5em center;
+	padding:.9em 4em;
+	}	
+.clsEscrowfund {
+	background:url(../images/ic_escrowfund.png) no-repeat scroll .5em center;
+	padding:.9em 4em;
+	}	
+.clsInvoice {
+	background:url(../images/ic_invoice.png) no-repeat scroll .5em center;
+	padding:.9em 2em;
+	}	
+.clsInbox	 {
+	background:url(../images/ic_inbox.png) no-repeat scroll .5em center;
+	padding:.9em 4em;
+	}
+.clsOutbox	 {
+	background:url(../images/ic_outbox.png) no-repeat scroll .5em center;
+	padding:.9em 4em;
+	}
+.clsToreviw {
+	background:url(../images/ic_toreview.png) no-repeat scroll .5em center;
+	padding:.9em 4em;
+	}	
+.clsMyEscrow {
+	background:url(../images/ic_myescrows.png) no-repeat scroll .5em center;
+	padding:.9em 4em;
+	}	
+.clsPMB {
+	background:url(../images/ic_pmb.png) no-repeat scroll .5em center;
+	padding:.9em 4em;
+	}	
+.clsProDetial {
+	background:url(../images/ic_details.png) no-repeat scroll .5em center;
+	padding:.9em 4em;
+	}	
+.clsLoginDetial {
+	background:url(../images/ic_actlogin.png) no-repeat scroll .5em center;
+	padding:.9em 4em;
+	}		
+.clsOptDetial {
+	background:url(../images/ic_optdetails.png) no-repeat scroll .5em center;
+	padding:.9em 4em;
+	}			
+.clsViewPro {
+	background:url(../images/ic_viewpros.png) no-repeat scroll .5em center;
+	padding:.6em 3.5em;
+	text-transform:uppercase;
+	}			
+.clsTransfer {
+	background:url(../images/ic_mytransfer.png) no-repeat scroll .5em center;
+	padding:.9em 4em;
+	}			
+.clsUser {
+	background:url(../images/ic_user.png) no-repeat scroll .5em center;
+	padding:.9em 4em;
+	}			
+.clsBlockUser {
+	background:url(../images/ic_blockuser.png) no-repeat scroll .5em center;
+	padding:.9em 4em;
+	}			
+.clsFavUser {
+	background:url(../images/ic_favuser.png) no-repeat scroll .5em center;
+	padding:.9em 4em;
+	}			
+.clsMyClose {
+	background:url(../images/ic_myclose.png) no-repeat scroll .5em center;
+	padding:.9em 4em;
+	}			
+.clsMyOpen {
+	background:url(../images/ic_myopen.png) no-repeat scroll .5em center;
+	padding:.9em 4em;
+	}			
+.clsPayments {
+	background:url(../images/ic_payments.png) no-repeat scroll .5em center;
+	padding:.6em 4em;
+	}
+.clsFeatured {
+	background:url(../images/ic_featured.png) no-repeat scroll .5em center;
+	padding:.9em 4em;
+	}	
+.clsTopseller {
+	background:url(../images/ic_topseller.png) no-repeat scroll .5em center;
+	padding:.9em 4em;
+	}		
+.clsTopbuyer {
+	background:url(../images/ic_topbuyer.png) no-repeat scroll .5em center;
+	padding:.9em 4em;
+	}			
+.clsCategory {
+	background:url(../images/ic_category.png) no-repeat scroll .5em center;
+	padding:.9em 2em;
+	}		
+.clsHigh {
+	background:url(../images/ic_highb.png) no-repeat scroll .5em center;
+	padding:.9em 4em;
+	}			
+	
+	
+.clsNewMethod{
+	background:url(../images/cert.png) no-repeat scroll 0.5em center transparent;
+	padding:0.9em 4em;
+}
+
+.clsCancel{
+	background:url(../images/cancel_case.png) no-repeat scroll 0.5em center transparent;
+	padding:0.9em 4em;
+}
+.clsDisputes{
+	background:url(../images/dispute_case.png) no-repeat scroll 0.5em center transparent;
+	padding:0.9em 4em;
+}
+.clsClosedJob{
+	background:url(../images/closed_job.png) no-repeat scroll 0.5em center transparent;
+	padding:0.9em 4em;
+}

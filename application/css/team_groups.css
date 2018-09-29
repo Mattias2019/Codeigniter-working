@@ -1,0 +1,47 @@
+.team-group .permission-table table {
+    border-top: 6px solid #1E88E5;
+}
+
+.team-group .permission-table thead th {
+    vertical-align: top;
+    border-bottom: none;
+    border-top: none;
+    color: #d0d9e1;
+}
+
+.team-group .permission-table th.inline-header {
+    background: #27363a none repeat scroll 0
+}
+
+.team-group .permission-table th.bordered {
+    border: 1px solid #27363a;
+}
+
+.team-group .permission-table .middle-header th {
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.team-group .permission-table .bottom-header th {
+    color: #7a828c;
+}
+
+.team-group .permission-table tbody td {
+    text-align: center;
+}
+
+.team-group .permission-table tbody td.team-members {
+    padding-top: 15px;
+}
+
+.team-group .permission-table tbody tr.locked {
+    background-color: #cbced9;
+}
+
+.team-group .permission-table tbody tr.locked:hover td {
+    background-color: #cbced9 !important;
+}
+
+.team-group .permission-table tbody tr td .admin-yes-label {
+    margin-top: 5px;
+}

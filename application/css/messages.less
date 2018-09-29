@@ -1,0 +1,68 @@
+.nav.nav-pills {
+    background: white;
+    .message-compose {
+        padding: 10px;
+        .button {
+            text-align: left;
+            padding-top: 0;
+            &:focus, &:hover {
+                background-color: @brand-primary;
+            }
+            .icon-svg-img {
+                position: absolute;
+                right: 10px;
+                top: 10px;
+            }
+        }
+    }
+    .message-tab {
+        margin: 0;
+        a {
+            border-radius: 0;
+            font-size: @font-size-base;
+            &:visited, &:hover, &:active {
+                background-color: inherit;
+            }
+        }
+        &.active a {
+            background-color: @content-bg;
+            color: @text-color;
+        }
+        .badge {
+            background-color: @brand-primary;
+            color: white;
+        }
+    }
+}
+
+.cls_slet-refrs {
+    margin: 0 0 20px 0;
+    .page-actions {
+        float: left;
+        background-color: @content-bg;
+        border-radius: 4px;
+        margin: 0 5px 0 0;
+        height: 40px;
+        &.check {
+            padding: 0 5px;
+        }
+        input {
+            height: 100%;
+            margin: 0;
+        }
+        button {
+            background-color: transparent;
+            border-style: none;
+            height: 100%;
+            width: 100%;
+            &:visited, &:hover, &:active {
+                box-shadow: none;
+            }
+        }
+    }
+}
+
+tr.unread
+{
+    font-weight: bold;
+}

@@ -1,0 +1,50 @@
+<?php  
+$lang['total_validation']	 						 = 'montant';
+$lang['Paypal']	 						 			 = 'Paypal';
+$lang['Dont have rights to access this page']	     = 'Ne pas avoir le droit d&#39;accéder à cette page';
+$lang['owner_id_validation']	 					 = 'entreprise';
+$lang['job_id_validation']	 					 = 'projet';
+$lang['amount_validation']	 						 = 'montant';
+$lang['employee_id_validation']	 				 = 'consultant';
+$lang['Select Programmer']	 				         = 'Sélectionnez Consultant';
+$lang['Select Buyer']	 				             = 'Sélectionnez Enterprise';
+$lang['Select Job']	 				             = 'Sélectionnez Projet';
+$lang['Transfer Amount']	 				         = 'montant';
+$lang['Job Amount']	 				        = 'Montant du projet:';
+$lang['Due Amount']	 				         = 'Montant dû: ';
+$lang['Note: Do not use commas']	 				         = 'Remarque: Ne utilisez pas de virgules ';
+$lang['N/A']	 				         = 'N/A';
+$lang['Select Developer']	 		= 'Sélectionnez développeur';
+$lang['Escrow due complete']	 				         = 'Escrow raison complète';
+$lang['Paid']	 				         = 'payé';
+$lang['Number of milestone payments:']	 				         = 'Nombre de paiements d&#39;étape: ';
+$lang['Send Money']	 				                 = 'Envoyer de l&#39;argent';
+$lang['Please Choose the Job']	 				 = 'Se il vous plaît Choisissez le Id Projet';
+$lang['Please Choose the Employee']	 			 = 'Se il vous plaît Choisissez le Consultant';
+$lang['Please enter the Amount']	 				 = 'Se il vous plaît entrez le montant';
+$lang['Your Transaction successfully Completed']	 = 'Votre transaction terminée avec succès';
+$lang['Transfer Amount should not be empty']	 	 = 'Montant du transfert ne doit pas être vide ou zéro';
+$lang['You donot have enough balance in your account to escrow the money']	= 'Vous ne avez pas assez solde de votre compte à l&#39;entiercement de l&#39;argent';
+$lang['Escrow Amount Tansfer Through']               =  'Escrow Montant Transfert pour le projet -- '; 
+$lang['Tansfer Amount Through']                      =  'Montant du transfert Grâce';
+$lang['Enter the Amount']                            =  'Saisissez le montant';
+$lang['Invalid Input Value']                         =  'Valeur d&#39;entrée non valide';
+$lang['Escrow Funds']='Escrow Funds';
+
+$lang['Escrow confirm']='Confirmez déblocage de fonds d&#39;entiercement de consultant?';
+$lang['User name :']='Nom d&#39;utilisateur :';
+$lang['Escrow Funds']='Fonds Escrow';
+$lang['Account Balance:']='Solde du compte:';
+$lang['select']='Sélectionnez votre méthode de dépôt préférée ci-dessous et cliquez ensuite sur le bouton de dépôt.';
+$lang['SI.No']='n ° de série';
+$lang['From']='à partir de';
+$lang['Amount']='montant';
+$lang['Date']='date';
+$lang['Status']='statut';
+$lang['My Escrow Transactions']='Mes transactions d&#39;entiercement';
+$lang['To']='à';
+$lang['Transfer']='transfert';
+$lang['Release']='libération';
+$lang['Employee Name']='Consultant Nom';
+
+?>

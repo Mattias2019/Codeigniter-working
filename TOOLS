@@ -1,0 +1,97 @@
+Used tools and where to update them
+
+------------------------------
+
+#### Dropzone.js - application/js/dropzone.js ####
+
+Description:
+DropzoneJS is an open source library that provides drag’n’drop file uploads with image previews.
+
+## Link: http://www.dropzonejs.com/
+## Link 2: https://github.com/enyo/dropzone/
+
+## Installed Version: 4.3.0
+
+## Last update: 21.05.2016 - 13:56:00
+
+------------------------------
+
+#### fontawesome - application/js/font_awesome/* ####
+
+Description:
+Font Awesome gives you scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS. 
+
+## Link: http://fontawesome.io/
+
+## Installed Version: 4.6.3
+
+## Last update: 21.05.2016 - 14:38:00
+
+------------------------------
+
+#### Bootstrap Switch - application/js/bootstrap-switch.min.js ####
+
+Description:
+Turn checkboxes and radio buttons in toggle switches.
+
+## Link: http://www.bootstrap-switch.org/
+
+## Installed Version: 3.3.2
+
+## Last update: 23.05.2016 - 21:46:00
+
+------------------------------
+
+#### Bootstrap TouchSpin - application/js/jquery.bootstrap-touchspin.min.js ####
+
+Description:
+A mobile and touch friendly input spinner component for Bootstrap 3. It supports the mousewheel and the up/down keys.
+
+## Link: http://www.virtuosoft.eu/code/bootstrap-touchspin/
+## Link 2: https://github.com/istvan-ujjmeszaros/bootstrap-touchspin/
+
+## Installed Version: 3.1.1
+
+## Last update: 23.05.2016 - 23:24:00
+
+------------------------------
+
+#### Chosen - application/js/chosen.jquery.min.js ####
+
+Description:
+Chosen is a jQuery plugin that makes long, unwieldy select boxes much more user-friendly.
+
+## Link: http://harvesthq.github.io/chosen/
+## Link 2: https://github.com/harvesthq/chosen/
+
+## Installed Version: 1.5.1
+
+## Last update: 24.05.2016 - 00:33:00
+
+------------------------------
+
+#### Ion.RangeSlider - application/js/ion.rangeSlider/* ####
+
+Description:
+Ion.RangeSlider. Is an easy, flexible and responsive range slider with tons of options.
+
+## Link: https://github.com/IonDen/ion.rangeSlider/
+
+## Installed Version: 2.1.4
+
+## Last update: 25.05.2016 - 01:07:00
+
+------------------------------
+
+#### Ion.checkRadio - application/js/ion.checkRadio/* ####
+
+Description:
+jQuery-plugin for styling checkboxes and radio-buttons. With skin support.
+
+## Link: https://github.com/IonDen/ion.checkRadio/
+
+## Installed Version: 2.0.0
+
+## Last update: 25.05.2016 - 13:44:00
+
+------------------------------

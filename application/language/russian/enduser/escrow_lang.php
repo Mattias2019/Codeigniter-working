@@ -1,0 +1,50 @@
+<?php  
+$lang['total_validation']	 						 = 'количество';
+$lang['Paypal']	 						 			 = 'Paypal';
+$lang['Dont have rights to access this page']	     = 'Не имеют права на доступ к этой странице';
+$lang['owner_id_validation']	 					 = 'предприятие';
+$lang['job_id_validation']	 					 = 'проект';
+$lang['amount_validation']	 						 = 'количество';
+$lang['employee_id_validation']	 				 = 'консультант';
+$lang['Select Programmer']	 				         = 'Выберите консультант';
+$lang['Select Buyer']	 				             = 'Выберите Предприятие';
+$lang['Select Job']	 				             = 'Выбор проекта';
+$lang['Transfer Amount']	 				         = 'количество';
+$lang['Job Amount']	 				        = 'Сумма проекта:';
+$lang['Due Amount']	 				         = 'надлежащей суммы: ';
+$lang['Note: Do not use commas']	 				         = 'Примечание: Не используйте запятые ';
+$lang['N/A']	 				         = 'N/A';
+$lang['Select Developer']	 		= 'Выберите Разработчик';
+$lang['Escrow due complete']	 				         = 'Escrow из-за полного';
+$lang['Paid']	 				         = 'платный';
+$lang['Number of milestone payments:']	 				         = 'Количество поэтапные выплаты: ';
+$lang['Send Money']	 				                 = 'посылать деньги';
+$lang['Please Choose the Job']	 				 = 'Пожалуйста выберите идентификатор проекта';
+$lang['Please Choose the Employee']	 			 = 'Пожалуйста, выберите Консультанта';
+$lang['Please enter the Amount']	 				 = 'Пожалуйста, введите сумму';
+$lang['Your Transaction successfully Completed']	 = 'Ваша сделка успешно завершена';
+$lang['Transfer Amount should not be empty']	 	 = 'Перевод сумма не должно быть пустым или ноль';
+$lang['You donot have enough balance in your account to escrow the money']	= 'Вы не хватает баланса на вашем счету для сделки деньги';
+$lang['Escrow Amount Tansfer Through']               =  'Escrow сумма перевода для проекта -- '; 
+$lang['Tansfer Amount Through']                      =  'Перевод сумма Через';
+$lang['Enter the Amount']                            =  'Введите сумму';
+$lang['Invalid Input Value']                         =  'Неправильное значение входного';
+$lang['Escrow Funds']='Средства по депонированию';
+
+$lang['Escrow confirm']='Подтвердите выделение средств сделки, чтобы консультант?';
+$lang['User name :']='имя пользователя :';
+$lang['Escrow Funds']='Средства по депонированию';
+$lang['Account Balance:']='баланс:';
+$lang['select']='Выберите ваш предпочитаемый метод депозита ниже, а затем нажмите кнопку депозита.';
+$lang['SI.No']='серийный номер';
+$lang['From']='от';
+$lang['Amount']='количество';
+$lang['Date']='дата';
+$lang['Status']='статус';
+$lang['My Escrow Transactions']='Мои Операции по депонированию';
+$lang['To']='для';
+$lang['Transfer']='перевод';
+$lang['Release']='релиз';
+$lang['Employee Name']='Консультант Имя';
+
+?>

@@ -1,0 +1,31 @@
+<?php
+$lang['You must be logged in as a Programmer to bid projects']					= 'आप परियोजनाओं बोली लगाने के लिए एक सलाहकार के रूप में लॉग इन होना चाहिए';
+$lang['Bid_Amount_validation'] 													= 'बोली राशि';
+$lang['Bid_days_validation'] 													= 'दिन';
+$lang['description_validation']													= 'संदेश';
+$lang['You must be logged in as a programmer to place a bid']	            	= 'आप एक बोली जगह के लिए एक सलाहकार के रूप में लॉग इन होना चाहिए';
+$lang['Bid on Project']	            											= 'परियोजना पर बोली';
+$lang['Your Bid']	            												= 'अपनी बोली';
+$lang['Delivery Time']	            											= 'डिलीवरी का समय';
+$lang['Bid Details']	            											= 'बोली विवरण';
+$lang['Portfolio']	            												= 'पोर्टफोलियो';
+$lang['Days']	            													= 'दिन';
+$lang['Hours']	            													= 'घंटे';
+$lang['Characters Left']	            										= 'अक्षर बाकी';
+$lang['Submit']	            													= 'प्रस्तुत करना';
+$lang['Preview']	            												= 'पूर्वावलोकन';
+$lang['Your bid Has Been edited Successfully']	            					= 'आपकी बोली सफलतापूर्वक संपादित किया गया है';
+$lang['Your bid Has Been Posted Successfully']	            					= 'आपकी बोली को सफलतापूर्वक दर्ज किया गया है। आप इस परियोजना पर एक नई बोली जगह के लिए तय है कि यह अपने पुराने बोली की जगह लेगा। इस परियोजना को बंद कर देता है जब आप ई-मेल द्वारा सूचित किया जाएगा।';
+$lang['Your are not having sufficient Balance']	            					= 'आप पर्याप्त बैलेंस नहीं कर रहे हैं';
+$lang['Project Fee for Bid']	            					                = 'बोली के लिए परियोजना शुल्क';
+$lang['Project Fee']	            					                        = 'परियोजना शुल्क';
+$lang['Programmer']	            					                            = 'सलाहकार';
+$lang['Buyer']	            					                                = 'उद्यम';
+$lang['Project Fee for Featured Project']	            					    = 'विशेष रुप से प्रदर्शित';
+$lang['Project Fee for Urgent Project']	            					        = 'अर्जेंट';
+$lang['Project Fee for hide bids Project']	            					    = 'छुपाएं बोलियां';
+$lang['Project Fee for Private Project']	            					    = 'निजी';
+$lang['Job Fee']	            					                            = 'परियोजना शुल्क';
+$lang['Project Fee']	            					                        = 'परियोजना शुल्क';
+$lang['Bid on Job']																= 'परियोजना पर बोली';
+?>

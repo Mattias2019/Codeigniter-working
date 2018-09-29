@@ -1,0 +1,6 @@
+table.table tbody tr.disabled-row > td {
+    background-color: #E1E2E8!important;
+}
+table.table tbody tr.disabled-row:hover td {
+    background-color: #E1E2E8!important;
+}

@@ -1,0 +1,21 @@
+.toplayer{background-color:#393939;color:#ffffff;clear:both;overflow:hidden}
+.layer2{background-color:#ffffff;color:#000000;padding:10px 0;clear:both;overflow:hidden}
+.layer3{background-color:#ffffff;color:#000000;margin-top:10px;clear:both;overflow:hidden}
+.layer4{background-color:#ffffff;color:#000000;margin-bottom:30px;margin-top:10px;clear:both;overflow:hidden;padding:0 20px 20px 20px}
+.clear{clear:both}
+.imgleft{float:left;top:20px;position:relative;width:100px;height:100px;height:auto;padding-right:10px}
+.imgleft img{float:left;width:100%;height:75px}
+.textright{padding:0px 0px 10px 10px;font-size:13px;float:left;text-align:left}
+.rightAligntext{font-size:14px;padding-top:20px;clear:both;float:right;padding-right:10px}
+.rightAligntext label{display:block}
+.rightAligntext ol{padding:0px}
+.rightAligntext ol li{display:inline-block;padding-right:20px}
+.heading p{border-bottom:2px solid colo#fa201f;padding-bottom:10px}
+label span{padding-left:20px}
+.rightalign,.rightside{text-align:left;padding-top:10px}
+.rightalign p{font-size:16px}
+.rightside p{font-size:16px;float:right;padding-right:10px;clear:both;overflow:hidden}
+.level1{padding:5px 0;text-align:left;float:left;display:block}
+.layer3left ul li{display:inline-block;padding-right:20px;margin-bottom:0px !important}
+.layer3left{text-align:left}
+.layer3right{background-color:#fa201f;padding:10px;color:#ffffff}

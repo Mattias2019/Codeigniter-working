@@ -1,0 +1,35 @@
+<?php 
+$lang['total_validation']	 						 = 'montant';
+$lang['Paypal']	 						             = 'Paypal';
+$lang['Dont have rights to access this page']	     = 'Ne pas avoir le droit d&#39;accéder à cette page';
+$lang['buyer_id_validation']	 					 = 'société';
+$lang['project_id_validation']	 					 = 'projet';
+$lang['amount_validation']	 						 = 'montant';
+$lang['programmer_id_validation']	 				 = 'fournisseur';
+$lang['Select Employee']	 				         = 'Sélectionnez Consultant';
+$lang['Select Owner']	 				             = 'Sélectionnez Enterprise';
+$lang['Select Job']	 				                 = 'Sélectionnez Projet';
+$lang['Transfer Amount']	 				         = 'montant $';
+$lang['Send Money']	 				                 = 'Envoyer de l&#39;argent';
+$lang['Please Choose the Project']	 				 = 'Se il vous plaît Choisissez le Id Projet';
+$lang['Please Choose the Programmer']	 			 = 'Se il vous plaît choisir le fournisseur';
+$lang['Please enter the Amount']	 				 = 'Se il vous plaît entrez le montant';
+$lang['Your Transaction successfully Completed']	 = 'Votre transaction terminée avec succès';
+$lang['Transfer Amount should not be empty']	 	 = 'Montant du transfert ne doit pas être vide ou zéro';
+$lang['You are not having Sufficient Balance to Transfer']= 'Vous n&#39;êtes pas Avoir un équilibre suffisant pour transférer';
+$lang['Tansfer Amount Through']                      =  'Montant du transfert Grâce';
+$lang['Enter the Amount']                            =  'Saisissez le montant';
+$lang['Invalid Input Value']                         =  'Valeur d&#39;entrée non valide';
+$lang['Transfer Funds']='Transférer des fonds';
+$lang['User name :']='Nom d&#39;utilisateur:';
+$lang['Account Balance:']='Solde du compte:';
+$lang['SI.No']='n ° de série';
+$lang['From']='à partir de';
+$lang['Amount']='montant';
+$lang['To']='à';
+$lang['Date']='date';
+$lang['Status']='statut';
+$lang['select']='Sélectionnez votre méthode de dépôt préférée ci-dessous et cliquez ensuite sur le bouton de dépôt.';
+$lang['Transfer']='transfert';
+$lang['My Transfer Transactions']='Mes transactions de transfert';
+?>

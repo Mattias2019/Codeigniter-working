@@ -1,0 +1,30 @@
+# For full documentation and other suggested options, please see
+# http://svn.modxcms.com/docs/display/MODx096/Friendly+URL+Solutions
+# including for unexpected logouts in multi-server/cloud environments
+# and especially for the first three commented out rules
+
+# Friendly URLs
+RewriteEngine On
+RewriteBase /~infodm/ (this was first [b]/%7Einfodm/[/b])
+
+# Fix Apache internal dummy connections from breaking [(site_url)] cache
+RewriteCond %{HTTP_USER_AGENT} ^.*internal\ dummy\ connection.*$ [NC]
+RewriteRule .* - [F,L]
+
+# Exclude /assets and /manager directories from rewrite rules
+RewriteRule ^(manager|assets) - [L]
+
+# Redirect from mydomain.com/rootname to mydomain.com/rootname/
+RewriteRule ^en$ en/ [R=301,L]
+RewriteRule ^nl$ nl/ [R=301,L]
+
+# The Friendly URLs part
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^en/(.*)$ index.php?q=$1 [L,QSA]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^nl/(.*)$ index.php?q=$1 [L,QSA]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php?q=$1 [L,QSA]

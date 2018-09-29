@@ -1,0 +1,18 @@
+/* Ion.CheckRadio, Green Skin
+// Version 2.0.0
+//
+// © Denis Ineshin, 2015
+// https://github.com/IonDen
+// ===================================================================================================================*/
+
+.icr-label {
+    padding-right: 2px;
+    margin: 0 5px 5px 0;
+    font-size: 14px; line-height: 18px;
+}
+
+.icr-item {
+    width: 23px; height: 23px;
+    background: url(../img/icr-green-skin.png) no-repeat;
+}
+
